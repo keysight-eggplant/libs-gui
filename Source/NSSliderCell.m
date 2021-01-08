@@ -964,9 +964,12 @@ float _floatValueForMousePoint (NSPoint point, NSRect knobRect,
       [decoder decodeValueOfObjCType: @encode(id) at: &_knobCell];
       if ([decoder versionForClassName: @"NSSliderCell"] >= 2)
 	{
+      	  int32_t tmp_int;
 	  [decoder decodeValueOfObjCType: @encode(BOOL) at: &_allowsTickMarkValuesOnly];
-	  [decoder decodeValueOfObjCType: @encode(NSInteger) at: &_numberOfTickMarks];
-	  [decoder decodeValueOfObjCType: @encode(int) at: &_tickMarkPosition];
+	  [decoder decodeValueOfObjCType: @encode(int32_t) at: &tmp_int];
+          _numberOfTickMarks = tmp_int;
+	  [decoder decodeValueOfObjCType: @encode(int32_t) at: &tmp_int];
+          _tickMarkPosition = tmp_int;
 	}
     }
   return self;
@@ -988,14 +991,17 @@ float _floatValueForMousePoint (NSPoint point, NSRect knobRect,
     }
   else
     {
+      int32_t tmp_int;
       [coder encodeValuesOfObjCTypes: "fffi",
 	     &_minValue, &_maxValue, &_altIncrementValue, &_isVertical];
       [coder encodeValueOfObjCType: @encode(id) at: &_titleCell];
       [coder encodeValueOfObjCType: @encode(id) at: &_knobCell];
       // New for version 2
       [coder encodeValueOfObjCType: @encode(BOOL) at: &_allowsTickMarkValuesOnly];
-      [coder encodeValueOfObjCType: @encode(NSInteger) at: &_numberOfTickMarks];
-      [coder encodeValueOfObjCType: @encode(int) at: &_tickMarkPosition];
+      tmp_int = _numberOfTickMarks;
+      [coder encodeValueOfObjCType: @encode(int32_t) at: &tmp_int];
+      tmp_int = _tickMarkPosition;
+      [coder encodeValueOfObjCType: @encode(int32_t) at: &tmp_int];
     }
 }
   
