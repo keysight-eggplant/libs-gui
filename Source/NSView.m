@@ -1828,7 +1828,7 @@ convert_rect_using_matrices(NSRect aRect, NSAffineTransform *matrix1,
 
   if (aView != nil)
     {
-      NSAssert(_window == [aView window], NSInvalidArgumentException); 
+      // NSAssert(_window == [aView window], NSInvalidArgumentException); 
       matrix1 = [aView _matrixToWindow];      
     }
   else
