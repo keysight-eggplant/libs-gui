@@ -256,7 +256,7 @@ static NSStoryboard *__mainStoryboard = nil;
     }
 
   // Execute the block if it's set...
-  if (block != nil)
+  if (NULL != block)
     {
       CALL_BLOCK(block, self);
     }
