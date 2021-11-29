@@ -188,7 +188,7 @@
     {
     }
 
-  if (_handler != nil)
+  if (NULL != _handler)
     {
       CALL_BLOCK_NO_ARGS(_handler);
     }
