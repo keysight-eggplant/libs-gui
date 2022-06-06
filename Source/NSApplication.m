@@ -282,6 +282,7 @@ initialize_gnustep_backend(void)
 
       first = 0;
 #ifdef BACKEND_BUNDLE
+	  THIS LINE SHOULD CAUSE AN ERROR IF BACKEND_BUNDLE IS DEFINED
       {      
 	NSBundle *theBundle;
 	NSString *path, *bundleName;
@@ -325,6 +326,7 @@ initialize_gnustep_backend(void)
       }
 
 #else
+	  THIS LINE SHOULD CAUSE AN ERROR IF BACKEND_BUNDLE IS UNDEFINED
       /* GSBackend will be in a separate library linked in with the app.
        This would be cleaner with ...classNamed: @"GSBackend", but that 
        doesn't work in some cases (Mac OS X for instance).  */
