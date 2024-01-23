@@ -1,3 +1,8 @@
+// ========== Keysight Technologies Added Changes To Satisfy LGPL 2.x Section 2(a) Requirements ========== 
+// Committed by: Paul Landers 
+// Commit ID: e1d7e808a9dc1464070c539d574be2f6e4c9e3df 
+// Date: 2016-10-17 21:00:58 +0000 
+// ========== End of Keysight Technologies Notice ========== 
 /** <title>NSFont</title>
 
    <abstract>The font class</abstract>

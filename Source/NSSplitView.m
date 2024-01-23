@@ -1,3 +1,8 @@
+// ========== Keysight Technologies Added Changes To Satisfy LGPL 2.x Section 2(a) Requirements ========== 
+// Committed by: Marcian Lytwyn 
+// Commit ID: b18d21e186b77af0cea2150e4cb907ba14e21d11 
+// Date: 2017-08-25 18:37:18 +0000 
+// ========== End of Keysight Technologies Notice ========== 
 /** <title>NSSplitView</title>
 
    <abstract>Allows multiple views to share a region in a window</abstract>

@@ -1,3 +1,8 @@
+// ========== Keysight Technologies Added Changes To Satisfy LGPL 2.x Section 2(a) Requirements ========== 
+// Committed by: Marcian Lytwyn 
+// Commit ID: b70ec16e6c95e39c78a03bc57f909880b608e7a8 
+// Date: 2015-06-30 22:01:18 +0000 
+// ========== End of Keysight Technologies Notice ========== 
 /** <title>NSEvent</title>
 
    <abstract>The event class</abstract>

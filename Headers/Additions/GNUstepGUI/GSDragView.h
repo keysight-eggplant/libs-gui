@@ -1,3 +1,8 @@
+// ========== Keysight Technologies Added Changes To Satisfy LGPL 2.x Section 2(a) Requirements ========== 
+// Committed by: Marcian Lytwyn 
+// Commit ID: 6671471116c00855bc67d6a0b032940a21575595 
+// Date: 2017-02-12 18:43:13 +0000 
+// ========== End of Keysight Technologies Notice ========== 
 /*
    GSDragView - Generic Drag and Drop code.
 

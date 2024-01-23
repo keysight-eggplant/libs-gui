@@ -1,3 +1,8 @@
+// ========== Keysight Technologies Added Changes To Satisfy LGPL 2.x Section 2(a) Requirements ========== 
+// Committed by: Marcian Lytwyn 
+// Commit ID: 685dbd2a387b82ea195447023a9132b85a8f7d2c 
+// Date: 2017-09-17 18:35:41 +0000 
+// ========== End of Keysight Technologies Notice ========== 
 /** <title>NSSpellChecker</title>
 
    <abstract>Class to provide the graphical interface to the spell checking

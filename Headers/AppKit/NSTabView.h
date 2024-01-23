@@ -1,3 +1,8 @@
+// ========== Keysight Technologies Added Changes To Satisfy LGPL 2.x Section 2(a) Requirements ========== 
+// Committed by: Marcian Lytwyn 
+// Commit ID: 8c9421e52f7e1ff245334304e156648d58adcbbf 
+// Date: 2017-08-15 20:12:52 +0000 
+// ========== End of Keysight Technologies Notice ========== 
 /*
    NSTabView.h
 

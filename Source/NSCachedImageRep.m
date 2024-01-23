@@ -1,3 +1,8 @@
+// ========== Keysight Technologies Added Changes To Satisfy LGPL 2.x Section 2(a) Requirements ========== 
+// Committed by: Marcian Lytwyn 
+// Commit ID: ce265f56f8f510447a95dca5c4e62c2dac98e06d 
+// Date: 2015-06-25 18:51:04 +0000 
+// ========== End of Keysight Technologies Notice ========== 
 /** <title>NSCachedImageRep</title>
 
    <abstract>Cached image representation.</abstract>

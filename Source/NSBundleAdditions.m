@@ -1,3 +1,8 @@
+// ========== Keysight Technologies Added Changes To Satisfy LGPL 2.x Section 2(a) Requirements ========== 
+// Committed by: Paul Landers 
+// Commit ID: 2cb1263af068a7f9f7af60b49e5af602cdfd0174 
+// Date: 2017-09-13 16:53:28 +0000 
+// ========== End of Keysight Technologies Notice ========== 
 /** <title>NSBundleAdditions</title>
 
    <abstract>Implementation of NSBundle Additions</abstract>

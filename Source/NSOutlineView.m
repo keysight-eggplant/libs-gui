@@ -1,3 +1,8 @@
+// ========== Keysight Technologies Added Changes To Satisfy LGPL 2.x Section 2(a) Requirements ========== 
+// Committed by: Marcian Lytwyn 
+// Commit ID: f6a47b3f0cfcefcf2622386944635a2d61da325c 
+// Date: 2018-08-14 23:05:58 +0000 
+// ========== End of Keysight Technologies Notice ========== 
 /** <title>NSOutlineView</title>
 
    <abstract>

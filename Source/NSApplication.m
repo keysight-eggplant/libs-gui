@@ -1,3 +1,8 @@
+// ========== Keysight Technologies Added Changes To Satisfy LGPL 2.x Section 2(a) Requirements ========== 
+// Committed by: David Vernon 
+// Commit ID: 5dda45045ef084b787bf3968794a39f742cd81f7 
+// Date: 2017-11-14 18:00:44 +0000 
+// ========== End of Keysight Technologies Notice ========== 
 /** <title>NSApplication</title>
 
    <abstract>The one and only application class.</abstract>

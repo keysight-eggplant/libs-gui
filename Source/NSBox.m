@@ -1,3 +1,8 @@
+// ========== Keysight Technologies Added Changes To Satisfy LGPL 2.x Section 2(a) Requirements ========== 
+// Committed by: williameveretteggplant 
+// Commit ID: 9c81a7873dd096c072fe12d944ad5ab7702ae58a 
+// Date: 2022-01-28 09:04:36 -0700 
+// ========== End of Keysight Technologies Notice ========== 
 /** <title>NSBox</title>
 
    <abstract>Simple box view that can display a border and title

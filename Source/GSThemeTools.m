@@ -1,3 +1,8 @@
+// ========== Keysight Technologies Added Changes To Satisfy LGPL 2.x Section 2(a) Requirements ========== 
+// Committed by: Marcian Lytwyn 
+// Commit ID: 2c8aba77c62d984cc8b9acebdbd0cff9ff2f077e 
+// Date: 2016-03-09 16:28:35 +0000 
+// ========== End of Keysight Technologies Notice ========== 
 /** <title>GSThemeTools</title>
 
    <abstract>Useful/configurable drawing functions</abstract>

@@ -1,3 +1,8 @@
+// ========== Keysight Technologies Added Changes To Satisfy LGPL 2.x Section 2(a) Requirements ========== 
+// Committed by: Marcian Lytwyn 
+// Commit ID: 617135603e88ca1ad188f87b91654bd64af96851 
+// Date: 2017-09-21 20:45:32 +0000 
+// ========== End of Keysight Technologies Notice ========== 
 /** <title>NSPopUpButtonCell</title>
 
    Copyright (C) 1999 Free Software Foundation, Inc.

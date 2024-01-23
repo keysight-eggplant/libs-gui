@@ -1,3 +1,8 @@
+// ========== Keysight Technologies Added Changes To Satisfy LGPL 2.x Section 2(a) Requirements ========== 
+// Committed by: Marcian Lytwyn 
+// Commit ID: 2088ec1ab5f039eb678bc91abfd9fc397eb192f8 
+// Date: 2016-03-09 15:09:26 +0000 
+// ========== End of Keysight Technologies Notice ========== 
 /** <title>GSTextFinder</title>
 
    Copyright (C) 2010 Free Software Foundation, Inc.

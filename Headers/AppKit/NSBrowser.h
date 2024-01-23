@@ -1,3 +1,8 @@
+// ========== Keysight Technologies Added Changes To Satisfy LGPL 2.x Section 2(a) Requirements ========== 
+// Committed by: Marcian Lytwyn 
+// Commit ID: a06204c7069a9efe9c8abdbe6311a37b329eef04 
+// Date: 2015-06-20 21:02:13 +0000 
+// ========== End of Keysight Technologies Notice ========== 
 /* 
    NSBrowser.h
 

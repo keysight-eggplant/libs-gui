@@ -1,3 +1,8 @@
+// ========== Keysight Technologies Added Changes To Satisfy LGPL 2.x Section 2(a) Requirements ========== 
+// Committed by: williameveretteggplant 
+// Commit ID: 243b900b03abf7a3afeca3f0e4ddd5727f0f36e2 
+// Date: 2022-02-04 10:11:44 -0700 
+// ========== End of Keysight Technologies Notice ========== 
 /** <title>NSTextView</title>
 
    Copyright (C) 1996, 1998, 2000, 2001, 2002, 2003, 2008 Free Software Foundation, Inc.

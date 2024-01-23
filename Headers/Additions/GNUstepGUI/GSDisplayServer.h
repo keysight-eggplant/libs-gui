@@ -1,3 +1,8 @@
+// ========== Keysight Technologies Added Changes To Satisfy LGPL 2.x Section 2(a) Requirements ========== 
+// Committed by: Marcian Lytwyn 
+// Commit ID: ef92cdbc23cf7b0f71cfbb23b9809d77d4034313 
+// Date: 2017-02-17 21:48:26 +0000 
+// ========== End of Keysight Technologies Notice ========== 
 /** <title>GSDisplayServer</title>
 
    <abstract>Abstract display server class.</abstract>

@@ -1,3 +1,8 @@
+// ========== Keysight Technologies Added Changes To Satisfy LGPL 2.x Section 2(a) Requirements ========== 
+// Committed by: Marcian Lytwyn 
+// Commit ID: 0c124924b836663b8d6a5f723db4726cdb8d93e8 
+// Date: 2015-06-11 18:39:09 +0000 
+// ========== End of Keysight Technologies Notice ========== 
 /*
    NSStatusBar.h
 

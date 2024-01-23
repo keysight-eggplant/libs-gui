@@ -1,3 +1,8 @@
+// ========== Keysight Technologies Added Changes To Satisfy LGPL 2.x Section 2(a) Requirements ========== 
+// Committed by: Marcian Lytwyn 
+// Commit ID: d5242088e84b15d33a691c86055a5d379e25574c 
+// Date: 2017-03-24 15:55:57 +0000 
+// ========== End of Keysight Technologies Notice ========== 
 /** <title>GSXibParserDelegate.h</title>
  
  <abstract>The XIB 5 keyed unarchiver</abstract>

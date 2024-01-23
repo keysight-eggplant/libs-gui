@@ -1,3 +1,8 @@
+// ========== Keysight Technologies Added Changes To Satisfy LGPL 2.x Section 2(a) Requirements ========== 
+// Committed by: Marcian Lytwyn 
+// Commit ID: 0a05caf78a5bf717fe400e64b24d2aa93b6abf99 
+// Date: 2012-10-20 00:06:53 +0000 
+// ========== End of Keysight Technologies Notice ========== 
 /* 
    NSViewPrivate.h
 

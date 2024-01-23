@@ -1,3 +1,8 @@
+// ========== Keysight Technologies Added Changes To Satisfy LGPL 2.x Section 2(a) Requirements ========== 
+// Committed by: Marcian Lytwyn 
+// Commit ID: a210a1367e3e74b1d0ce7f1a5cb4f4941365c4fa 
+// Date: 2017-03-17 18:51:09 +0000 
+// ========== End of Keysight Technologies Notice ========== 
 /** <title>NSMenuItem</title>
 
    <abstract>The menu cell class.</abstract>

@@ -1,3 +1,8 @@
+// ========== Keysight Technologies Added Changes To Satisfy LGPL 2.x Section 2(a) Requirements ========== 
+// Committed by: Marcian Lytwyn 
+// Commit ID: d0bdb53b51e25455fdfda016fb23e8ced30d919c 
+// Date: 2020-04-23 16:30:48 -0400 
+// ========== End of Keysight Technologies Notice ========== 
 /** <title>NSBitmapImageRep.m</title>
 
    <abstract>Bitmap image representation.</abstract>

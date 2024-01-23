@@ -1,3 +1,8 @@
+// ========== Keysight Technologies Added Changes To Satisfy LGPL 2.x Section 2(a) Requirements ========== 
+// Committed by: Gregory Casamento 
+// Commit ID: a7487b4811fdb2e4d057aaf51cd14369ea8a8805 
+// Date: 2023-09-28 10:05:31 -0400 
+// ========== End of Keysight Technologies Notice ========== 
 /** <title>GSXib5KeyedUnarchiver.m</title>
  
  <abstract>The XIB 5 keyed unarchiver</abstract>

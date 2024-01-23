@@ -1,3 +1,8 @@
+// ========== Keysight Technologies Added Changes To Satisfy LGPL 2.x Section 2(a) Requirements ========== 
+// Committed by: Marcian Lytwyn 
+// Commit ID: 1a6aa351555699be5ca2616a4f93a8fb8361c73a 
+// Date: 2015-06-30 22:25:22 +0000 
+// ========== End of Keysight Technologies Notice ========== 
 /* 
    NSFontPanel.h
 

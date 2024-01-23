@@ -1,3 +1,8 @@
+// ========== Keysight Technologies Added Changes To Satisfy LGPL 2.x Section 2(a) Requirements ========== 
+// Committed by: Marcian Lytwyn 
+// Commit ID: e7db63c99c865e7ecdfeba3116fb55f89aa9b768 
+// Date: 2017-02-12 18:57:48 +0000 
+// ========== End of Keysight Technologies Notice ========== 
 /** <title>NSClipView</title>
 
    Copyright (C) 1996 Free Software Foundation, Inc.

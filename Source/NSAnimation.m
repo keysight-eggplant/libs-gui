@@ -1,3 +1,8 @@
+// ========== Keysight Technologies Added Changes To Satisfy LGPL 2.x Section 2(a) Requirements ========== 
+// Committed by: Marcian Lytwyn 
+// Commit ID: 9468f2180c35985b9fa2d36bd6304d6ac024188d 
+// Date: 2016-09-13 20:15:36 +0000 
+// ========== End of Keysight Technologies Notice ========== 
 /*
    NSAnimation.m
  

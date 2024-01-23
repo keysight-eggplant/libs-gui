@@ -1,3 +1,8 @@
+## ========== Keysight Technologies Added Changes To Satisfy LGPL 2.x Section 2(a) Requirements ========== 
+## Committed by: Frank Le Grand 
+## Commit ID: 4b27157a46ce2a51d886db45ac5ccfec1b00c1d0 
+## Date: 2013-08-09 14:24:48 +0000 
+## ========== End of Keysight Technologies Notice ========== 
 
 dnl PKG_CHECK_MODULES(GSTUFF, gtk+-2.0 >= 1.3 glib = 1.3.4, action-if, action-not)
 dnl defines GSTUFF_LIBS, GSTUFF_CFLAGS, see pkg-config man page

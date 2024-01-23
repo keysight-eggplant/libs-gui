@@ -1,3 +1,8 @@
+// ========== Keysight Technologies Added Changes To Satisfy LGPL 2.x Section 2(a) Requirements ========== 
+// Committed by: Marcian Lytwyn 
+// Commit ID: 3a6d9f829d9d165a67f533a67e493be0b97b7dcc 
+// Date: 2017-03-24 19:11:54 +0000 
+// ========== End of Keysight Technologies Notice ========== 
 /** <title>GSNibLoading</title>
 
    <abstract>

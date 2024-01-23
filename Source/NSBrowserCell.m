@@ -1,3 +1,8 @@
+// ========== Keysight Technologies Added Changes To Satisfy LGPL 2.x Section 2(a) Requirements ========== 
+// Committed by: Marcian Lytwyn 
+// Commit ID: 2db13a06473b7ab20d905161efcd7dcc1a13c164 
+// Date: 2016-04-06 18:44:24 +0000 
+// ========== End of Keysight Technologies Notice ========== 
 /** <title>NSBrowserCell</title>
 
    <abstract>Cell class for the NSBrowser</abstract>
