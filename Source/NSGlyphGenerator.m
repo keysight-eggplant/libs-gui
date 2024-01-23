@@ -1,3 +1,8 @@
+// ========== Keysight Technologies Added Changes To Satisfy LGPL 2.x Section 2(a) Requirements ========== 
+// Committed by: Marcian Lytwyn 
+// Commit ID: b804b27a9bfbfa1123b84c8342445974b3ecb375 
+// Date: 2018-09-13 17:21:39 +0000 
+// ========== End of Keysight Technologies Notice ========== 
 /*
    NSGlyphGenerator.m
 

@@ -1,3 +1,8 @@
+// ========== Keysight Technologies Added Changes To Satisfy LGPL 2.x Section 2(a) Requirements ========== 
+// Committed by: Marcian Lytwyn 
+// Commit ID: e8717e9f7022f9f9cea746b0d9ac476ea8625ba7 
+// Date: 2015-07-01 23:31:10 +0000 
+// ========== End of Keysight Technologies Notice ========== 
 /** <title>NSObjectController</title>
 
    <abstract>Controller class</abstract>

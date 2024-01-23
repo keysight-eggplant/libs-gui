@@ -1,3 +1,8 @@
+// ========== Keysight Technologies Added Changes To Satisfy LGPL 2.x Section 2(a) Requirements ========== 
+// Committed by: Marcian Lytwyn 
+// Commit ID: a0e7374772ec2b751561c906534ee09473ada095 
+// Date: 2018-09-19 18:44:03 +0000 
+// ========== End of Keysight Technologies Notice ========== 
 /** <title>NSSecureTextField</title>
 
    <abstract>Secure Text field control class for hidden text entry</abstract>

@@ -1,3 +1,8 @@
+// ========== Keysight Technologies Added Changes To Satisfy LGPL 2.x Section 2(a) Requirements ========== 
+// Committed by: Marcian Lytwyn 
+// Commit ID: 392e6ceb1a1db5ae24021985a5af994fc55b2e42 
+// Date: 2015-07-02 00:38:19 +0000 
+// ========== End of Keysight Technologies Notice ========== 
 /** <title>NSParagraphStyle</title>
 
    <abstract>NSParagraphStyle and NSMutableParagraphStyle hold paragraph style 

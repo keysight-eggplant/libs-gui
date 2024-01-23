@@ -1,3 +1,8 @@
+/*** ========== Keysight Technologies Added Changes To Satisfy LGPL 2.x Section 2(a) Requirements ========== ***/
+/*** Committed by: Marcian Lytwyn ***/
+/*** Commit ID: d7655e2512e652f77e73e3abe06d658190e2c98c ***/
+/*** Date: 2015-12-04 23:52:04 +0000 ***/
+/*** ========== End of Keysight Technologies Notice ========== ***/
 /* This file maps the old OPENSTEP and GNUstep names of the images to the 
    standard theme image names (declared as constants in GSTheme.h) or icon 
    names (declared as constants in their related header).

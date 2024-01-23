@@ -1,3 +1,8 @@
+// ========== Keysight Technologies Added Changes To Satisfy LGPL 2.x Section 2(a) Requirements ========== 
+// Committed by: Marcian Lytwyn 
+// Commit ID: 31e58c2158e79ecb951cebc66300902f794a84d8 
+// Date: 2015-06-22 15:52:38 +0000 
+// ========== End of Keysight Technologies Notice ========== 
 /** <title>GSPrinting.m</title>
 
    <abstract>GSPrinting loads the proper bundle for the printing backend.</abstract>

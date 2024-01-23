@@ -1,3 +1,8 @@
+// ========== Keysight Technologies Added Changes To Satisfy LGPL 2.x Section 2(a) Requirements ========== 
+// Committed by: Marcian Lytwyn 
+// Commit ID: 47788ee3ea7b68f261f5c75411e4075ac2bbe00e 
+// Date: 2017-06-23 21:44:17 +0000 
+// ========== End of Keysight Technologies Notice ========== 
 /** <title>NSScrollView</title>
 
    Copyright (C) 1996 Free Software Foundation, Inc.

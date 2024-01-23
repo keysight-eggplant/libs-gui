@@ -1,3 +1,8 @@
+// ========== Keysight Technologies Added Changes To Satisfy LGPL 2.x Section 2(a) Requirements ========== 
+// Committed by: Aarti Munjal 
+// Commit ID: edbfc4ebd7ea2f57494219777cd37fd7305dff85 
+// Date: 2016-03-07 21:25:33 +0000 
+// ========== End of Keysight Technologies Notice ========== 
 /*
    RTFProducer.m
 

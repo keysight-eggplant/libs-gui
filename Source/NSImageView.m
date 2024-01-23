@@ -1,3 +1,8 @@
+// ========== Keysight Technologies Added Changes To Satisfy LGPL 2.x Section 2(a) Requirements ========== 
+// Committed by: Marcian Lytwyn 
+// Commit ID: 2a41972a782cea5b3abd2c7091ce363cf06f36f1 
+// Date: 2015-07-01 19:32:05 +0000 
+// ========== End of Keysight Technologies Notice ========== 
 /** <title>NSImageView</title>
 
    Copyright (C) 1996 Free Software Foundation, Inc.

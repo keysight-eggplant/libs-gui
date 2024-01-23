@@ -1,3 +1,8 @@
+// ========== Keysight Technologies Added Changes To Satisfy LGPL 2.x Section 2(a) Requirements ========== 
+// Committed by: Marcian Lytwyn 
+// Commit ID: 8bdc94322b04dbdb69ff3fd5dd16694fbf72d1e4 
+// Date: 2016-10-05 22:24:16 +0000 
+// ========== End of Keysight Technologies Notice ========== 
 /** <title>NSTextStorage</title>
 
    Copyright (C) 1999 Free Software Foundation, Inc.

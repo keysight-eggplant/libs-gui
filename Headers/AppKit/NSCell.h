@@ -1,3 +1,8 @@
+// ========== Keysight Technologies Added Changes To Satisfy LGPL 2.x Section 2(a) Requirements ========== 
+// Committed by: Marcian Lytwyn 
+// Commit ID: 518f28211f456dc5b13c942cbb5a7dbb48b7ec84 
+// Date: 2017-03-28 14:16:32 +0000 
+// ========== End of Keysight Technologies Notice ========== 
 /* -*-objc-*-
    NSCell.h
 

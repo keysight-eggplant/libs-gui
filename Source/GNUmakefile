@@ -1,3 +1,8 @@
+# ========== Keysight Technologies Added Changes To Satisfy LGPL 2.x Section 2(a) Requirements ========== 
+# Committed by: Marcian Lytwyn 
+# Commit ID: 31f52310df1070560f65479c26efcfa2fac99342 
+# Date: 2017-01-25 15:49:14 +0000 
+# ========== End of Keysight Technologies Notice ========== 
 #
 #  Main makefile for GNUstep GUI Library
 #  Copyright (C) 1997 Free Software Foundation, Inc.

@@ -1,3 +1,8 @@
+// ========== Keysight Technologies Added Changes To Satisfy LGPL 2.x Section 2(a) Requirements ========== 
+// Committed by: Marcian Lytwyn 
+// Commit ID: 43bbbfd0279c9a401cdf431daedcc1c2d7a16e4a 
+// Date: 2016-12-28 19:32:04 +0000 
+// ========== End of Keysight Technologies Notice ========== 
 /*
    NSBitmapImageRep+PNG.m
 

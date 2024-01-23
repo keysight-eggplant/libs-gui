@@ -1,3 +1,8 @@
+// ========== Keysight Technologies Added Changes To Satisfy LGPL 2.x Section 2(a) Requirements ========== 
+// Committed by: Marcian Lytwyn 
+// Commit ID: 69b046a0afd8d8616e4b37671a9318dc0c27d68e 
+// Date: 2017-12-11 18:00:52 +0000 
+// ========== End of Keysight Technologies Notice ========== 
 /** <title>NSPasteboard</title>
 
    <abstract>Implementation of class for communicating with the

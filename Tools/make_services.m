@@ -1,3 +1,8 @@
+// ========== Keysight Technologies Added Changes To Satisfy LGPL 2.x Section 2(a) Requirements ========== 
+// Committed by: Frank Le Grand 
+// Commit ID: 4b27157a46ce2a51d886db45ac5ccfec1b00c1d0 
+// Date: 2013-08-09 14:24:48 +0000 
+// ========== End of Keysight Technologies Notice ========== 
 /* This tool builds a cache of service specifications like the
    NeXTstep/ OPENSTEP 'make_services' tool.  In addition it builds a list of
    applications and services-bundles found in the standard directories.

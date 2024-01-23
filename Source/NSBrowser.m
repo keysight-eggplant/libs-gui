@@ -1,3 +1,8 @@
+// ========== Keysight Technologies Added Changes To Satisfy LGPL 2.x Section 2(a) Requirements ========== 
+// Committed by: Bekki Freeman 
+// Commit ID: 940058aad83429eaefc606a8572077a6c62c2eff 
+// Date: 2018-06-25 21:15:03 +0000 
+// ========== End of Keysight Technologies Notice ========== 
 /** <title>NSBrowser</title>
 
    <abstract>Control to display and select from hierarchal lists</abstract>

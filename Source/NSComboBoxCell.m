@@ -1,3 +1,8 @@
+// ========== Keysight Technologies Added Changes To Satisfy LGPL 2.x Section 2(a) Requirements ========== 
+// Committed by: Marcian Lytwyn 
+// Commit ID: bcfbd3aeafbc0dfdc0f14090efa1053a7e72f76b 
+// Date: 2017-07-17 17:16:59 +0000 
+// ========== End of Keysight Technologies Notice ========== 
 /** <title>NSComboBoxCell</title>
 
    Copyright (C) 1999 Free Software Foundation, Inc.

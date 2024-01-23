@@ -1,3 +1,8 @@
+// ========== Keysight Technologies Added Changes To Satisfy LGPL 2.x Section 2(a) Requirements ========== 
+// Committed by: Marcian Lytwyn 
+// Commit ID: 0b03717fe9d68fe488ceed1e0a90144048e22ee4 
+// Date: 2015-06-26 16:47:48 +0000 
+// ========== End of Keysight Technologies Notice ========== 
 /** <title>GSTitleView</title>
 
    Copyright (C) 2003 Free Software Foundation, Inc.

@@ -1,3 +1,8 @@
+// ========== Keysight Technologies Added Changes To Satisfy LGPL 2.x Section 2(a) Requirements ========== 
+// Committed by: Marcian Lytwyn 
+// Commit ID: ecedf1d681ba53ecc78446a74634d5151359351f 
+// Date: 2018-05-17 15:49:24 +0000 
+// ========== End of Keysight Technologies Notice ========== 
 /** <title>NSColor</title>
 
    <abstract>The colorful color class</abstract>

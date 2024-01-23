@@ -1,3 +1,8 @@
+// ========== Keysight Technologies Added Changes To Satisfy LGPL 2.x Section 2(a) Requirements ========== 
+// Committed by: Marcian Lytwyn 
+// Commit ID: de5f907dcae55a0a0a8af1653c5e6c379ab2a4bc 
+// Date: 2015-07-08 22:21:16 +0000 
+// ========== End of Keysight Technologies Notice ========== 
 /*
    NSPopover.h
 

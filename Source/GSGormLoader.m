@@ -1,3 +1,8 @@
+// ========== Keysight Technologies Added Changes To Satisfy LGPL 2.x Section 2(a) Requirements ========== 
+// Committed by: Marcian Lytwyn 
+// Commit ID: bb5773f64ecb853373e564ca62ff84914b5a0b03 
+// Date: 2016-10-05 18:26:49 +0000 
+// ========== End of Keysight Technologies Notice ========== 
 /** <title>GSGormLoader</title>
 
    <abstract>Gorm model loader</abstract>

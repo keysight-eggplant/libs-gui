@@ -1,3 +1,8 @@
+// ========== Keysight Technologies Added Changes To Satisfy LGPL 2.x Section 2(a) Requirements ========== 
+// Committed by: Marcian Lytwyn 
+// Commit ID: cc49e3937f6a89112298f0e609a1ac4c64c96dd9 
+// Date: 2015-06-26 19:19:59 +0000 
+// ========== End of Keysight Technologies Notice ========== 
 /** <title>NSDocument</title>
 
    <abstract>The abstract document class</abstract>

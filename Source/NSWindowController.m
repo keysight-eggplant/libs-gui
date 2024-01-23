@@ -1,3 +1,8 @@
+// ========== Keysight Technologies Added Changes To Satisfy LGPL 2.x Section 2(a) Requirements ========== 
+// Committed by: Marcian Lytwyn 
+// Commit ID: 996b9fbf321394743eb5a50b762d9ca29cfc9c93 
+// Date: 2017-10-02 23:20:10 +0000 
+// ========== End of Keysight Technologies Notice ========== 
 /** <title>NSWindowController</title>
 
    Copyright (C) 2000 Free Software Foundation, Inc.

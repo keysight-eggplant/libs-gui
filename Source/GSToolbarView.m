@@ -1,3 +1,8 @@
+// ========== Keysight Technologies Added Changes To Satisfy LGPL 2.x Section 2(a) Requirements ========== 
+// Committed by: William Everett 
+// Commit ID: bf2c6ddb8586fa9657740c4254083601fe8b22e5 
+// Date: 2021-08-24 16:58:03 -0600 
+// ========== End of Keysight Technologies Notice ========== 
 /*
    <Title>GSToolbarView.m</title>
 

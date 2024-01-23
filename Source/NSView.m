@@ -1,3 +1,8 @@
+// ========== Keysight Technologies Added Changes To Satisfy LGPL 2.x Section 2(a) Requirements ========== 
+// Committed by: williameveretteggplant 
+// Commit ID: be426a22656f5cd7eb26e5a6cf9b989a4878a5f7 
+// Date: 2022-01-28 08:55:29 -0700 
+// ========== End of Keysight Technologies Notice ========== 
 /** <title>NSView</title>
 
    <abstract>The view class which encapsulates all drawing functionality</abstract>

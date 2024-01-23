@@ -1,3 +1,8 @@
+// ========== Keysight Technologies Added Changes To Satisfy LGPL 2.x Section 2(a) Requirements ========== 
+// Committed by: Marcian Lytwyn 
+// Commit ID: ab97ddee5fec246796ae8d9f23dc2fb1cc5642e5 
+// Date: 2016-10-05 21:18:43 +0000 
+// ========== End of Keysight Technologies Notice ========== 
 /** <title>NSColorPanel</title>
 
    <abstract>System generic color panel</abstract>

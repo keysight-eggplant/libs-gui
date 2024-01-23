@@ -1,3 +1,8 @@
+// ========== Keysight Technologies Added Changes To Satisfy LGPL 2.x Section 2(a) Requirements ========== 
+// Committed by: Marcian Lytwyn 
+// Commit ID: 2c68e173b4a51c510ec31bf4d3d9c87fdb616a20 
+// Date: 2017-08-15 19:31:07 +0000 
+// ========== End of Keysight Technologies Notice ========== 
 /*
    NSComboBox.h
 

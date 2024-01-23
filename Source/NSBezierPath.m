@@ -1,3 +1,8 @@
+// ========== Keysight Technologies Added Changes To Satisfy LGPL 2.x Section 2(a) Requirements ========== 
+// Committed by: Marcian Lytwyn 
+// Commit ID: 219f2dbf986695a9958a4fa2346f1328e3be9ff9 
+// Date: 2016-01-29 23:26:28 +0000 
+// ========== End of Keysight Technologies Notice ========== 
 /** <title>NSBezierPath.m</title>
 
    <abstract>The NSBezierPath class</abstract>
