@@ -1,3 +1,24 @@
+########## Keysight Technologies Added Changes To Satisfy LGPL 2.x Section 2(a) Requirements ##########
+# Committed by: Marcian Lytwyn
+# Commit ID: 3e5185efa1d5885f29a94705171de6027be3e9b5
+# Date: 2016-02-01 19:19:32 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 2f8c84d096dddbb8cc84c692b509a5fd96531e9d
+# Date: 2016-01-29 23:22:11 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 8574bb74c290e115b9a0c4079175787115ae98b8
+# Date: 2016-01-29 18:23:25 +0000
+--------------------
+# Committed by: Frank Le Grand
+# Commit ID: 4b27157a46ce2a51d886db45ac5ccfec1b00c1d0
+# Date: 2013-08-09 14:24:48 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 36e77b95f7921e9539fdc0c115fe4039fa573150
+# Date: 2012-10-19 22:51:20 +0000
+########## End of Keysight Technologies Notice ##########
 /** <title>NSControl</title>
 
    <abstract>The abstract control class</abstract>

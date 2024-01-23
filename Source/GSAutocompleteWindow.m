@@ -1,3 +1,40 @@
+########## Keysight Technologies Added Changes To Satisfy LGPL 2.x Section 2(a) Requirements ##########
+# Committed by: Marcian Lytwyn
+# Commit ID: 33d44efefa0a7a562c5e25cf824cdca736188ed5
+# Date: 2018-06-29 14:39:55 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: bb5773f64ecb853373e564ca62ff84914b5a0b03
+# Date: 2016-10-05 18:26:49 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: de5f907dcae55a0a0a8af1653c5e6c379ab2a4bc
+# Date: 2015-07-08 22:21:16 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 425dc1efe74a7048630f00b9485c19d6b60e26a5
+# Date: 2015-06-26 02:03:03 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: c96089be04bc1d98e5a3cb5cde7a47aa7d8c5591
+# Date: 2014-02-25 18:49:27 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 5bebf8d94e9a82d0b42948d3d2b77339a1e28584
+# Date: 2013-09-11 18:43:55 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: a9e4f72f54f31a379fd31f6f02fb8037cc58c1b5
+# Date: 2013-09-09 01:54:02 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 6f19ceff5fe316db16eda703ac14670bffdd59b5
+# Date: 2013-09-03 20:50:16 +0000
+--------------------
+# Committed by: Frank Le Grand
+# Commit ID: 4b27157a46ce2a51d886db45ac5ccfec1b00c1d0
+# Date: 2013-08-09 14:24:48 +0000
+########## End of Keysight Technologies Notice ##########
 /*
    Copyright (C) 2013 Free Software Foundation, Inc.
 

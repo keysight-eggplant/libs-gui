@@ -1,3 +1,12 @@
+########## Keysight Technologies Added Changes To Satisfy LGPL 2.x Section 2(a) Requirements ##########
+# Committed by: Marcian Lytwyn
+# Commit ID: 2c8aba77c62d984cc8b9acebdbd0cff9ff2f077e
+# Date: 2016-03-09 16:28:35 +0000
+--------------------
+# Committed by: Frank Le Grand
+# Commit ID: 4b27157a46ce2a51d886db45ac5ccfec1b00c1d0
+# Date: 2013-08-09 14:24:48 +0000
+########## End of Keysight Technologies Notice ##########
 /** <title>NSActionCell</title>
 
    <abstract>Abstract cell for target/action paradigm</abstract>

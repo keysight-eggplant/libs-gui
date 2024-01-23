@@ -1,3 +1,8 @@
+########## Keysight Technologies Added Changes To Satisfy LGPL 2.x Section 2(a) Requirements ##########
+# Committed by: Marcian Lytwyn
+# Commit ID: c02881865b6db7ff779d846d2e59f0c72cd29d3b
+# Date: 2012-06-28 19:44:50 +0000
+########## End of Keysight Technologies Notice ##########
 /* GSStandardColorPicker.h
 
    Copyright (C) 2001 Free Software Foundation, Inc.

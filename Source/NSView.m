@@ -1,3 +1,96 @@
+########## Keysight Technologies Added Changes To Satisfy LGPL 2.x Section 2(a) Requirements ##########
+# Committed by: williameveretteggplant
+# Commit ID: be426a22656f5cd7eb26e5a6cf9b989a4878a5f7
+# Date: 2022-01-28 08:55:29 -0700
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: fe0177895d9926dde50e8f1d099b014c94c2e871
+# Date: 2017-08-16 18:44:14 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 31f52310df1070560f65479c26efcfa2fac99342
+# Date: 2017-01-25 15:49:14 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 61e111f14ff4db6abb55d2b90793dfcfaddebc53
+# Date: 2016-12-01 17:48:44 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 1f01a2e4b0b8a4cdc4124f09593c47c8d19691da
+# Date: 2016-11-25 17:00:22 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 80883d716e4aa4eff3c27e3906241c30c12994a6
+# Date: 2016-10-05 22:33:28 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 6305287d1c5d79fe17e9cbcdb18a7bebc7641254
+# Date: 2016-03-15 18:57:01 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: ffb26b5d3426c5e3b2fa2cd2d0ade13cbc813104
+# Date: 2016-02-01 22:08:22 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 6e13a48b135204152bac2a5430bf9007378f440e
+# Date: 2015-09-11 21:41:13 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 0aa1aae7d34a343a91de269d0f592542e2a27b24
+# Date: 2015-09-11 17:02:46 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: d3da9b523eedf35281c8405f10a281455b91cef2
+# Date: 2015-09-10 18:12:10 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 7b1427bcf62ed31fae89e972aa8795915ce07abd
+# Date: 2015-09-10 16:48:44 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: e3dbfd303bbefc8a74f352fe9841ac53215ceddd
+# Date: 2015-09-10 15:36:04 +0000
+--------------------
+# Committed by: Paul Landers
+# Commit ID: 87153ac66db78067c5f321783ffbab6fe325a436
+# Date: 2015-08-25 22:18:57 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: de5f907dcae55a0a0a8af1653c5e6c379ab2a4bc
+# Date: 2015-07-08 22:21:16 +0000
+--------------------
+# Committed by: Paul Landers
+# Commit ID: 3d60883d2a2d4941a8fb75c884864b1f9266a61c
+# Date: 2015-06-17 23:23:01 +0000
+--------------------
+# Committed by: Doug Simons
+# Commit ID: b89de028aac65968730ab3d93c1ff65b9a5c5985
+# Date: 2015-04-17 15:39:53 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 1325ed9c44c5b637536cdab74e9792060429777f
+# Date: 2014-12-04 16:31:08 +0000
+--------------------
+# Committed by: Frank Le Grand
+# Commit ID: 4b27157a46ce2a51d886db45ac5ccfec1b00c1d0
+# Date: 2013-08-09 14:24:48 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: d8aa0014ebc0b515dc5c51bcefa0581d5d7f21ec
+# Date: 2013-06-30 18:23:05 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 36e77b95f7921e9539fdc0c115fe4039fa573150
+# Date: 2012-10-19 22:51:20 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 9e04422b24302eff82ed4aa64d4829cf2324d1b2
+# Date: 2012-09-28 20:41:14 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: a0564c8ee4439780e6cbed2064ae0f1090010191
+# Date: 2012-09-10 20:51:58 +0000
+########## End of Keysight Technologies Notice ##########
 /** <title>NSView</title>
 
    <abstract>The view class which encapsulates all drawing functionality</abstract>

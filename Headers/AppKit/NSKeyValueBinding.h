@@ -1,3 +1,8 @@
+########## Keysight Technologies Added Changes To Satisfy LGPL 2.x Section 2(a) Requirements ##########
+# Committed by: Marcian Lytwyn
+# Commit ID: 38f2534170d1cb32c458a688cfb8135dc9710d5e
+# Date: 2013-02-23 22:29:16 +0000
+########## End of Keysight Technologies Notice ##########
 /** <title>NSKeyValueBinding</title>
 
    <abstract>Interface declaration for key value binding</abstract>

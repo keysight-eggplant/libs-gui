@@ -1,3 +1,12 @@
+########## Keysight Technologies Added Changes To Satisfy LGPL 2.x Section 2(a) Requirements ##########
+# Committed by: Marcian Lytwyn
+# Commit ID: 6315d5f4b0a0a4037a2977e3a8db0e9c24c6a8c3
+# Date: 2015-06-20 16:37:34 +0000
+--------------------
+# Committed by: Frank Le Grand
+# Commit ID: 4b27157a46ce2a51d886db45ac5ccfec1b00c1d0
+# Date: 2013-08-09 14:24:48 +0000
+########## End of Keysight Technologies Notice ##########
 /* NSBitmapImageRep+GIF.m
 
    Methods for reading GIF images

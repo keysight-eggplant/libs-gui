@@ -1,3 +1,44 @@
+########## Keysight Technologies Added Changes To Satisfy LGPL 2.x Section 2(a) Requirements ##########
+# Committed by: Marcian Lytwyn
+# Commit ID: bcfbd3aeafbc0dfdc0f14090efa1053a7e72f76b
+# Date: 2017-07-17 17:16:59 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 2ae63375d3b09f7be5f54073f73184d38d219970
+# Date: 2017-07-17 17:07:59 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 6c9b40248baef9f030c69f0dba669b0eec00c5f6
+# Date: 2017-03-10 22:10:08 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 773abfa12dc2af9a6902c1715b20b685f29cc72f
+# Date: 2017-03-10 21:58:38 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: ab97ddee5fec246796ae8d9f23dc2fb1cc5642e5
+# Date: 2016-10-05 21:18:43 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 05113ee81c04ea0554dc2213e4263c4d07c66eb4
+# Date: 2015-06-26 18:05:57 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 290e5b3c3436fd8a2d33907d9b1d7ec5559cd82b
+# Date: 2014-12-04 20:11:20 +0000
+--------------------
+# Committed by: Frank Le Grand
+# Commit ID: 4b27157a46ce2a51d886db45ac5ccfec1b00c1d0
+# Date: 2013-08-09 14:24:48 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 36e77b95f7921e9539fdc0c115fe4039fa573150
+# Date: 2012-10-19 22:51:20 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: c48f2140534890d1a242a22678fc7ca44bfffd94
+# Date: 2012-10-03 18:28:28 +0000
+########## End of Keysight Technologies Notice ##########
 /** <title>NSComboBoxCell</title>
 
    Copyright (C) 1999 Free Software Foundation, Inc.

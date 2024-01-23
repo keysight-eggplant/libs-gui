@@ -1,3 +1,124 @@
+########## Keysight Technologies Added Changes To Satisfy LGPL 2.x Section 2(a) Requirements ##########
+# Committed by: Marcian Lytwyn
+# Commit ID: 1573a14d971cb528b27690d1acb4ccb79a75ebae
+# Date: 2017-10-06 17:17:24 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 0959f0c6e6ed0259e14dcd1a635f4240a4eed645
+# Date: 2017-08-31 16:07:22 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: fefc425636935f687354dcb8ff200fce6f740102
+# Date: 2017-08-31 15:56:29 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 4b977f7715d1542529d06ba4dd035c71def1e696
+# Date: 2017-02-05 16:56:10 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 31f52310df1070560f65479c26efcfa2fac99342
+# Date: 2017-01-25 15:49:14 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 4e5a5d5cd5185fce8cc9c6aa9db233b1e810d7fb
+# Date: 2016-12-28 20:47:33 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: c0edb89f8b25dd78e53cef49c13c5af56914c6e4
+# Date: 2016-10-14 23:31:57 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 32c7e9a6a83fd083ea7337844917e7c7f8246db9
+# Date: 2016-10-05 19:06:59 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 636009428934d0b5ed01d76e7820cb04574ea750
+# Date: 2016-03-08 21:44:29 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 2e68003300690a5f2ca99d5c165f3ce7685a2057
+# Date: 2016-03-08 21:15:30 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: a77f9f2883bc96b2d57628590bba9722675c85ce
+# Date: 2015-08-14 22:45:02 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: faf6349ffda314a2ad4c601b9b3c49eac38336c3
+# Date: 2015-08-13 16:33:48 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: c6a5c9a81e2db87622cb6aabb593270345282c3e
+# Date: 2015-06-11 17:48:41 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 34bcb2c7c43ad866ff96747c4b6385f35b8a84a7
+# Date: 2014-12-02 20:36:00 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 0176b9a65d898f8e1e2d2c8cc154e2fb914fe9e3
+# Date: 2014-05-01 15:16:01 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: a02122130c9ee052187aa3c5171b44d81cba3483
+# Date: 2013-12-13 16:10:32 +0000
+--------------------
+# Committed by: Frank Le Grand
+# Commit ID: 4b27157a46ce2a51d886db45ac5ccfec1b00c1d0
+# Date: 2013-08-09 14:24:48 +0000
+--------------------
+# Committed by: Jonathan Gillaspie
+# Commit ID: b40571e9c5377426a8d0bf0ff2d9bc375b4fd1de
+# Date: 2013-02-13 20:18:52 +0000
+--------------------
+# Committed by: Doug Simons
+# Commit ID: 562a722ac18bb591cb18bece280314c750bb53dd
+# Date: 2013-02-13 18:41:24 +0000
+--------------------
+# Committed by: Doug Simons
+# Commit ID: 8bfbc45faef3e50b518b4f0b3a7fc519494c5b36
+# Date: 2013-02-13 16:59:29 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 36e77b95f7921e9539fdc0c115fe4039fa573150
+# Date: 2012-10-19 22:51:20 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 894510e18da98140a992625c9199e88a95252a9d
+# Date: 2012-10-03 17:09:59 +0000
+--------------------
+# Committed by: Gregory John Casamento
+# Commit ID: bed52af8c3c8c1c5151f2d37d9a88da0115c92ee
+# Date: 2012-09-04 02:36:01 +0000
+--------------------
+# Committed by: Gregory John Casamento
+# Commit ID: 34ea78114dee71ffca35e1f0ca9f77d4353d10f6
+# Date: 2012-09-04 02:06:51 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 040da4f3323ebe98cd039fcaf050cea3d0529966
+# Date: 2012-09-03 20:48:10 +0000
+--------------------
+# Committed by: Gregory John Casamento
+# Commit ID: 3761e339818dc2db373963ba0fc454605c79dbf6
+# Date: 2012-09-02 19:20:47 +0000
+--------------------
+# Committed by: Gregory John Casamento
+# Commit ID: 85a9492d2205d14b22e5f48bb78ccbd0c5b38517
+# Date: 2012-09-02 19:18:21 +0000
+--------------------
+# Committed by: Gregory John Casamento
+# Commit ID: 7fdbf3c5d00fd2db0ab71b156d8296e8ba6ae763
+# Date: 2012-09-02 18:07:52 +0000
+--------------------
+# Committed by: Gregory John Casamento
+# Commit ID: 7e684669ede747ab31d97aca166c8aa335285a4b
+# Date: 2012-08-31 20:34:35 +0000
+--------------------
+# Committed by: Gregory John Casamento
+# Commit ID: 7b1a15cd96cb6cb282f2088ea39e5ba04a0088b6
+# Date: 2012-08-31 16:57:39 +0000
+########## End of Keysight Technologies Notice ##########
 /* <title>GSXibLoader</title>
 
    <abstract>Xib (Cocoa XML) model loader</abstract>

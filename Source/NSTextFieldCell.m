@@ -1,3 +1,32 @@
+########## Keysight Technologies Added Changes To Satisfy LGPL 2.x Section 2(a) Requirements ##########
+# Committed by: Marcian Lytwyn
+# Commit ID: b2e13f848c45148684642b4f1113a8b880e2cfe3
+# Date: 2018-08-24 20:03:40 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 3e2f3f27b18f70756b15b87e61e064781f47cfbf
+# Date: 2017-08-15 18:40:10 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: c7d2c43dc608d38331a3d398b2a55a1c4a104186
+# Date: 2017-08-15 17:01:12 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 4c396274daead8095a07010f54d749b90d3fe7e0
+# Date: 2016-11-11 23:47:35 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: de5f907dcae55a0a0a8af1653c5e6c379ab2a4bc
+# Date: 2015-07-08 22:21:16 +0000
+--------------------
+# Committed by: Frank Le Grand
+# Commit ID: 4b27157a46ce2a51d886db45ac5ccfec1b00c1d0
+# Date: 2013-08-09 14:24:48 +0000
+--------------------
+# Committed by: Doug Simons
+# Commit ID: 6f9a0ad102eaaa7bf5f37f38f1d41fb8535bd2e7
+# Date: 2013-04-22 20:12:01 +0000
+########## End of Keysight Technologies Notice ##########
 /** <title>NSTextFieldCell</title>
 
    <abstract>Cell class for the text field entry control</abstract>

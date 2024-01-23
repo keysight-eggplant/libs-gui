@@ -1,3 +1,24 @@
+########## Keysight Technologies Added Changes To Satisfy LGPL 2.x Section 2(a) Requirements ##########
+# Committed by: Marcian Lytwyn
+# Commit ID: 08cda98199a442b8a1303d384f1faff65f1e94c1
+# Date: 2017-08-16 17:26:18 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 3a116b7ff4937ce88be73a9424c7c707ebda48e0
+# Date: 2017-08-16 15:23:00 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: bc4a059ac4fa7fadcec7aa8cd3ba95f3f875f488
+# Date: 2017-06-06 16:56:43 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 31f52310df1070560f65479c26efcfa2fac99342
+# Date: 2017-01-25 15:49:14 +0000
+--------------------
+# Committed by: Frank Le Grand
+# Commit ID: 4b27157a46ce2a51d886db45ac5ccfec1b00c1d0
+# Date: 2013-08-09 14:24:48 +0000
+########## End of Keysight Technologies Notice ##########
 /* -*-objc-*-
    NSSplitView.h
 

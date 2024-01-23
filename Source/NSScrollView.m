@@ -1,3 +1,36 @@
+########## Keysight Technologies Added Changes To Satisfy LGPL 2.x Section 2(a) Requirements ##########
+# Committed by: Marcian Lytwyn
+# Commit ID: 47788ee3ea7b68f261f5c75411e4075ac2bbe00e
+# Date: 2017-06-23 21:44:17 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 8fafc5aa75fd16c252d91c71d98b9a8f781a5119
+# Date: 2017-06-23 17:54:08 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 31f52310df1070560f65479c26efcfa2fac99342
+# Date: 2017-01-25 15:49:14 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: fab1e8f6f4487d2b11ab113fc42ba526c0c95a07
+# Date: 2016-04-06 17:57:36 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: de5f907dcae55a0a0a8af1653c5e6c379ab2a4bc
+# Date: 2015-07-08 22:21:16 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: a218e2f605e6e48175a50f8a078d58dc87274ea1
+# Date: 2014-03-11 22:30:17 +0000
+--------------------
+# Committed by: Frank Le Grand
+# Commit ID: 4b27157a46ce2a51d886db45ac5ccfec1b00c1d0
+# Date: 2013-08-09 14:24:48 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 09efaeba41f3ac84eea9d3f809f106af9f38af5d
+# Date: 2012-12-12 20:32:02 +0000
+########## End of Keysight Technologies Notice ##########
 /** <title>NSScrollView</title>
 
    Copyright (C) 1996 Free Software Foundation, Inc.

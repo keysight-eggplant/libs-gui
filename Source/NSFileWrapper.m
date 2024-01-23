@@ -1,3 +1,12 @@
+########## Keysight Technologies Added Changes To Satisfy LGPL 2.x Section 2(a) Requirements ##########
+# Committed by: Marcian Lytwyn
+# Commit ID: 6c4ad9ef8dcd93f6fc3b9c9d7769f2b4558ae127
+# Date: 2015-06-30 22:06:42 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 36e77b95f7921e9539fdc0c115fe4039fa573150
+# Date: 2012-10-19 22:51:20 +0000
+########## End of Keysight Technologies Notice ##########
 /** <title>NSFileWrapper</title>
 
    <abstract>Hold a file's contents in dynamic memory.</abstract>

@@ -1,3 +1,56 @@
+########## Keysight Technologies Added Changes To Satisfy LGPL 2.x Section 2(a) Requirements ##########
+# Committed by: Marcian Lytwyn
+# Commit ID: 2be3a0dfd32d26d8750757b8f8d9c19bf82f980c
+# Date: 2018-01-23 15:12:34 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: b08059a598b47c181ea0d18d8f61249c03ef9987
+# Date: 2018-01-22 16:17:48 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: f47a1d09edfb3e16d1fd4f5364960aadc6a9dfea
+# Date: 2016-02-02 23:26:33 +0000
+--------------------
+# Committed by: Paul Landers
+# Commit ID: 29a7f09e5667f4f40640fdd8ea0f01d36f4681ae
+# Date: 2015-09-17 17:03:22 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 19aabcd371aae4f7835f7001332f7fe7e742cb17
+# Date: 2015-09-10 13:39:39 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 2d7e19662ff25343af9a0f598497836883c86989
+# Date: 2015-08-17 23:26:25 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: f7443f98831092c44471138ca67f4ed0950e6b26
+# Date: 2015-08-17 01:53:44 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 78b13f5f4c4794813a6a491899b69b334d906f5e
+# Date: 2015-08-16 23:42:02 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: de5f907dcae55a0a0a8af1653c5e6c379ab2a4bc
+# Date: 2015-07-08 22:21:16 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 0dc0c821f948b7b33913ad82ea41f41ecb0f5f03
+# Date: 2014-12-02 21:09:22 +0000
+--------------------
+# Committed by: Frank Le Grand
+# Commit ID: ff37e4b2e82297f36893238153b87b8beafd28f0
+# Date: 2014-03-28 17:47:45 +0000
+--------------------
+# Committed by: Frank Le Grand
+# Commit ID: 4b27157a46ce2a51d886db45ac5ccfec1b00c1d0
+# Date: 2013-08-09 14:24:48 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 03f832152f7b4eeb2481b7810bd4869f95cec6d9
+# Date: 2013-06-30 18:22:24 +0000
+########## End of Keysight Technologies Notice ##########
 /* 
    NSToolbarItem.m
 

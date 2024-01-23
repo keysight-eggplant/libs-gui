@@ -1,3 +1,8 @@
+########## Keysight Technologies Added Changes To Satisfy LGPL 2.x Section 2(a) Requirements ##########
+# Committed by: Marcian Lytwyn
+# Commit ID: 2ec1378144ea56f2fe2a4412f184c6606af40376
+# Date: 2015-07-02 00:51:10 +0000
+########## End of Keysight Technologies Notice ##########
 /** <title>NSPrinter</title>
 
    <abstract>Class representing a printer's capabilities.</abstract>

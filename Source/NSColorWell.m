@@ -1,3 +1,12 @@
+########## Keysight Technologies Added Changes To Satisfy LGPL 2.x Section 2(a) Requirements ##########
+# Committed by: Marcian Lytwyn
+# Commit ID: 49bf74a7980f5437806283b5d2b271999dea30bb
+# Date: 2016-12-22 17:14:27 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 425dc1efe74a7048630f00b9485c19d6b60e26a5
+# Date: 2015-06-26 02:03:03 +0000
+########## End of Keysight Technologies Notice ##########
 /** <title>NSColorWell</title>
 
    <abstract>Control for selecting and display a single color value.</abstract>

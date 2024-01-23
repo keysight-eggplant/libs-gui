@@ -1,3 +1,24 @@
+########## Keysight Technologies Added Changes To Satisfy LGPL 2.x Section 2(a) Requirements ##########
+# Committed by: Marcian Lytwyn
+# Commit ID: 31f52310df1070560f65479c26efcfa2fac99342
+# Date: 2017-01-25 15:49:14 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: ffb26b5d3426c5e3b2fa2cd2d0ade13cbc813104
+# Date: 2016-02-01 22:08:22 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: faf6349ffda314a2ad4c601b9b3c49eac38336c3
+# Date: 2015-08-13 16:33:48 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: c6a5c9a81e2db87622cb6aabb593270345282c3e
+# Date: 2015-06-11 17:48:41 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 34bcb2c7c43ad866ff96747c4b6385f35b8a84a7
+# Date: 2014-12-02 20:36:00 +0000
+########## End of Keysight Technologies Notice ##########
 /* <title>GSXibLoading</title>
 
    <abstract>Xib (Cocoa XML) model loader</abstract>

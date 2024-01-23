@@ -1,3 +1,80 @@
+########## Keysight Technologies Added Changes To Satisfy LGPL 2.x Section 2(a) Requirements ##########
+# Committed by: Marcian Lytwyn
+# Commit ID: de5ca5d2fba1744f5643bdf8510b852c8d5bd6e8
+# Date: 2017-03-10 15:04:00 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 74a945ccf0dc8c716f214e08c94cbf347ef771f7
+# Date: 2017-03-04 21:53:53 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: b3b138171d824eff0f643af19774ce7074113002
+# Date: 2017-02-01 00:30:00 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 00fa6f58630e243832083b077da9b0615d565bac
+# Date: 2017-01-30 21:19:28 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: b532d9e83ecf18271bb63dcf323bc20899ee8762
+# Date: 2017-01-30 16:15:49 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 31f52310df1070560f65479c26efcfa2fac99342
+# Date: 2017-01-25 15:49:14 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 49bf74a7980f5437806283b5d2b271999dea30bb
+# Date: 2016-12-22 17:14:27 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 8d6d271138249fc3a1aa9d14ba4e92d549677206
+# Date: 2016-12-06 23:44:45 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: c950044cfcf5058adc19378da96151ead3a0dac3
+# Date: 2016-10-05 17:22:21 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 8fd5ffdfb709a5444b1fd5b8f03f759f83ae6c18
+# Date: 2015-08-08 21:13:26 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: c6a5c9a81e2db87622cb6aabb593270345282c3e
+# Date: 2015-06-11 17:48:41 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 13202adda5cdcebc4d46c711693cd9c7a827af05
+# Date: 2014-12-04 21:55:21 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 1d8e1bb0b50d83e249fe941753f76c2855605f7a
+# Date: 2014-03-06 16:48:06 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 3860611cea4a7249617b3d488e10a6cfd4eeefc2
+# Date: 2013-12-18 15:04:29 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: ab663c24b33e1e4a30c44513ad6b40169ded0b81
+# Date: 2013-12-07 20:51:40 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 0fe05a39f25b15cd39e249177b78b84850ce33bc
+# Date: 2013-11-01 15:45:42 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: cdfe249de8173ffa8f24eec7c0e754b2e2b50848
+# Date: 2013-10-30 20:55:04 +0000
+--------------------
+# Committed by: Frank Le Grand
+# Commit ID: 4b27157a46ce2a51d886db45ac5ccfec1b00c1d0
+# Date: 2013-08-09 14:24:48 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 317dfe3470ad158dd4ec23fc91fdd97d4e7780f6
+# Date: 2012-09-04 21:44:17 +0000
+########## End of Keysight Technologies Notice ##########
 /* 
    NSTableView.h
 

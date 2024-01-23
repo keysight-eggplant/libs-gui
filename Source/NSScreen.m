@@ -1,3 +1,24 @@
+########## Keysight Technologies Added Changes To Satisfy LGPL 2.x Section 2(a) Requirements ##########
+# Committed by: Marcian Lytwyn
+# Commit ID: de5f907dcae55a0a0a8af1653c5e6c379ab2a4bc
+# Date: 2015-07-08 22:21:16 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 3877d7c696e08b71aa19d89c94f813632b71150e
+# Date: 2014-05-05 16:34:52 +0000
+--------------------
+# Committed by: Jonathan Gillaspie
+# Commit ID: a139d7094a81d2d03dacec3546b5517b648b9a9a
+# Date: 2014-01-23 16:13:37 +0000
+--------------------
+# Committed by: Frank Le Grand
+# Commit ID: 4b27157a46ce2a51d886db45ac5ccfec1b00c1d0
+# Date: 2013-08-09 14:24:48 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: d888d2ec77a3a207c4913beb36e2d35f82f1a1f4
+# Date: 2012-06-27 18:10:40 +0000
+########## End of Keysight Technologies Notice ##########
 /** <title>NSScreen</title>
 
    Copyright (C) 1996, 2000 Free Software Foundation, Inc.

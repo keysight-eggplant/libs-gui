@@ -1,3 +1,12 @@
+########## Keysight Technologies Added Changes To Satisfy LGPL 2.x Section 2(a) Requirements ##########
+# Committed by: Marcian Lytwyn
+# Commit ID: 09227d4ba2423d0964b02add46c5a0ceca713eb6
+# Date: 2012-06-28 21:38:24 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 1b5f5d337a362d671cca9d350547563066976e84
+# Date: 2012-06-27 17:49:57 +0000
+########## End of Keysight Technologies Notice ##########
 /* 
    NSTextField.h
 

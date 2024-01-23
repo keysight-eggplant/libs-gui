@@ -1,3 +1,28 @@
+########## Keysight Technologies Added Changes To Satisfy LGPL 2.x Section 2(a) Requirements ##########
+# Committed by: Marcian Lytwyn
+# Commit ID: 3d23c53d985477af712c519bee9a52697d9f42e0
+# Date: 2016-11-29 15:30:44 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: bb5773f64ecb853373e564ca62ff84914b5a0b03
+# Date: 2016-10-05 18:26:49 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: dc754ea0a58434527de79ff7f7e2a9a7ba81f176
+# Date: 2015-06-26 15:34:29 +0000
+--------------------
+# Committed by: Paul Landers
+# Commit ID: 0f6f11e24d2a5599f3d4f1ed441e712847ac5f82
+# Date: 2015-01-17 00:08:39 +0000
+--------------------
+# Committed by: Frank Le Grand
+# Commit ID: 4b27157a46ce2a51d886db45ac5ccfec1b00c1d0
+# Date: 2013-08-09 14:24:48 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 36e77b95f7921e9539fdc0c115fe4039fa573150
+# Date: 2012-10-19 22:51:20 +0000
+########## End of Keysight Technologies Notice ##########
 /*
    GSHorizontalTypesetter.m
 

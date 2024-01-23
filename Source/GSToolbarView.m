@@ -1,3 +1,28 @@
+########## Keysight Technologies Added Changes To Satisfy LGPL 2.x Section 2(a) Requirements ##########
+# Committed by: William Everett
+# Commit ID: bf2c6ddb8586fa9657740c4254083601fe8b22e5
+# Date: 2021-08-24 16:58:03 -0600
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 45823919232ba5f74665c3f6e1898d50027070a6
+# Date: 2016-12-12 16:19:06 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 2088ec1ab5f039eb678bc91abfd9fc397eb192f8
+# Date: 2016-03-09 15:09:26 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 78b13f5f4c4794813a6a491899b69b334d906f5e
+# Date: 2015-08-16 23:42:02 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: a836b68b6a35686ae15aa74d44780e449086d2a9
+# Date: 2015-06-26 16:52:58 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 0dc0c821f948b7b33913ad82ea41f41ecb0f5f03
+# Date: 2014-12-02 21:09:22 +0000
+########## End of Keysight Technologies Notice ##########
 /*
    <Title>GSToolbarView.m</title>
 

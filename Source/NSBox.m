@@ -1,3 +1,48 @@
+########## Keysight Technologies Added Changes To Satisfy LGPL 2.x Section 2(a) Requirements ##########
+# Committed by: williameveretteggplant
+# Commit ID: 9c81a7873dd096c072fe12d944ad5ab7702ae58a
+# Date: 2022-01-28 09:04:36 -0700
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: be63eedc092207a6b46f7a3e007321a27bdf4e72
+# Date: 2016-10-05 19:58:54 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 952c5714a7ce07450badec09d50b5cba706bfbb8
+# Date: 2016-03-09 18:46:12 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 7190f5fa719c2f1a416aebcc7de37107d8797066
+# Date: 2015-12-10 23:33:34 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: ddf97e6fbae1933a297dd7bed416cc3431137f25
+# Date: 2015-08-03 17:56:29 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: dd460d8235de02f88d732005e643d527ed17fe96
+# Date: 2015-06-26 17:34:42 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: ca87d7eb340287a3ac13b5d66d7a6373046728a0
+# Date: 2015-06-20 20:38:12 +0000
+--------------------
+# Committed by: Frank Le Grand
+# Commit ID: 4b27157a46ce2a51d886db45ac5ccfec1b00c1d0
+# Date: 2013-08-09 14:24:48 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 68f35290c39b4b85717654f515db46662c77a8c1
+# Date: 2012-10-29 20:33:47 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 36e77b95f7921e9539fdc0c115fe4039fa573150
+# Date: 2012-10-19 22:51:20 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 18e11c87ef97ad96643932074fefc6934a92829d
+# Date: 2012-09-19 21:30:28 +0000
+########## End of Keysight Technologies Notice ##########
 /** <title>NSBox</title>
 
    <abstract>Simple box view that can display a border and title

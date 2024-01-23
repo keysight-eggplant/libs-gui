@@ -1,3 +1,136 @@
+########## Keysight Technologies Added Changes To Satisfy LGPL 2.x Section 2(a) Requirements ##########
+# Committed by: Marcian Lytwyn
+# Commit ID: f660f2008a5358759f74cfdc3b5c35b67814ad35
+# Date: 2018-01-12 20:19:13 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 6ab64937bbcbc56e0ff6d8a157ac99fbbce263be
+# Date: 2017-04-11 22:24:10 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 17fa46cdef43c9eba731c28237b2aca61309bc33
+# Date: 2017-03-20 15:00:48 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 767eaaabcb77757f2eb50b831674ba54afe7a5f0
+# Date: 2017-03-08 19:51:16 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 400a05bd8bb6f802d22b9cb304430526c05ecba4
+# Date: 2017-02-05 16:50:32 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 6b65c7d2bb36c0ae3e921e32908e1a8d3e4d4d26
+# Date: 2017-02-01 02:13:38 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 00fa6f58630e243832083b077da9b0615d565bac
+# Date: 2017-01-30 21:19:28 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 8d6d271138249fc3a1aa9d14ba4e92d549677206
+# Date: 2016-12-06 23:44:45 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 32c7e9a6a83fd083ea7337844917e7c7f8246db9
+# Date: 2016-10-05 19:06:59 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 77706afd51b60b437ddf5323ff97d1dccd7df0eb
+# Date: 2016-03-10 22:37:09 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 2c8aba77c62d984cc8b9acebdbd0cff9ff2f077e
+# Date: 2016-03-09 16:28:35 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: ffb26b5d3426c5e3b2fa2cd2d0ade13cbc813104
+# Date: 2016-02-01 22:08:22 +0000
+--------------------
+# Committed by: Paul Landers
+# Commit ID: 823354b7810f4259859d0e6d793f02c409f24770
+# Date: 2016-01-14 22:25:10 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: aeb598da9b82ab0a7a8f8fa9eff33dad39d67e82
+# Date: 2015-12-31 20:56:53 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 1a455e54eadb10a91ac0b6120a641ecb6b16c4a9
+# Date: 2015-12-11 16:32:54 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 8a65a3cd28cb8f61fe279c748c49ba1e13a47540
+# Date: 2015-12-11 16:27:32 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 7190f5fa719c2f1a416aebcc7de37107d8797066
+# Date: 2015-12-10 23:33:34 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: ad0dc75094e6aab4a39fdc1b6624198a1c62e24d
+# Date: 2015-08-17 22:12:56 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 71dd7453825d8f357dc3b47b66caf2685d6d2750
+# Date: 2015-08-17 17:05:56 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: cbf047b5543086b1c3fb3064e80618bea4d1d1dc
+# Date: 2015-08-17 04:57:37 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: ce265f56f8f510447a95dca5c4e62c2dac98e06d
+# Date: 2015-06-25 18:51:04 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: c6a5c9a81e2db87622cb6aabb593270345282c3e
+# Date: 2015-06-11 17:48:41 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: c008417ba08b5dbadd8307088d056289e07ea1a0
+# Date: 2014-08-01 20:46:33 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: a241cb876df21afc38bacc858a9c35bde8dbe8e3
+# Date: 2014-03-07 13:47:25 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 1d8e1bb0b50d83e249fe941753f76c2855605f7a
+# Date: 2014-03-06 16:48:06 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: ab663c24b33e1e4a30c44513ad6b40169ded0b81
+# Date: 2013-12-07 20:51:40 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: e1498b311a2d375f111e4725b5b09ae0677325b3
+# Date: 2013-11-01 23:20:18 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 012292682287b9e4582724a12a465f3510cbb669
+# Date: 2013-11-01 15:35:17 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 731714853bfe6b7c5d4694d73d1904a0bc575321
+# Date: 2013-10-31 16:17:28 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: cdfe249de8173ffa8f24eec7c0e754b2e2b50848
+# Date: 2013-10-30 20:55:04 +0000
+--------------------
+# Committed by: Frank Le Grand
+# Commit ID: 4b27157a46ce2a51d886db45ac5ccfec1b00c1d0
+# Date: 2013-08-09 14:24:48 +0000
+--------------------
+# Committed by: Frank Le Grand
+# Commit ID: bca3428387886ae5eca39e5d98a948372f3641c0
+# Date: 2013-02-06 20:32:45 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 36e77b95f7921e9539fdc0c115fe4039fa573150
+# Date: 2012-10-19 22:51:20 +0000
+########## End of Keysight Technologies Notice ##########
 /** <title>GSThemeDrawing</title>
 
    <abstract>The theme methods for drawing controls</abstract>

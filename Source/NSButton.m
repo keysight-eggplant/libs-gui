@@ -1,3 +1,20 @@
+########## Keysight Technologies Added Changes To Satisfy LGPL 2.x Section 2(a) Requirements ##########
+# Committed by: David Vernon
+# Commit ID: d73d802d8bd720c3b43692779b6b497064db5cec
+# Date: 2022-09-01 12:45:25 -0600
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: fd1151130980599f152ec95185ebc21d5942808c
+# Date: 2016-10-05 20:16:53 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 59be9b4a521165b0d48e7d5af71c7bf73088018e
+# Date: 2016-04-03 21:00:23 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 2f8c84d096dddbb8cc84c692b509a5fd96531e9d
+# Date: 2016-01-29 23:22:11 +0000
+########## End of Keysight Technologies Notice ##########
 /** <title>NSButton</title>
 
    <abstract>The button class</abstract>

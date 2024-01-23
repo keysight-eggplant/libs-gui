@@ -1,3 +1,76 @@
+########## Keysight Technologies Added Changes To Satisfy LGPL 2.x Section 2(a) Requirements ##########
+# Committed by: Marcian Lytwyn
+# Commit ID: f94de70e0d4185ea7594e78faf5c79c892c000ee
+# Date: 2017-08-10 22:06:48 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 5fda183d88608a4592e2438e6f29a55e1202c349
+# Date: 2017-03-10 14:23:13 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: a1d62943a6153190d2403fd79327deaa45268775
+# Date: 2016-10-04 22:11:05 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 69b8e9df346a71b1fbdc992653240b7ff5a724da
+# Date: 2016-02-05 20:46:25 +0000
+--------------------
+# Committed by: Adam Fox
+# Commit ID: db87c491637398b52dcede39170e3450fa249791
+# Date: 2015-08-17 21:09:17 +0000
+--------------------
+# Committed by: Paul Landers
+# Commit ID: 91919e85d1c09900253acbe6b46f9783a3a7b11b
+# Date: 2015-07-30 18:31:15 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 03f5d6b8797398893bf7e1c7f60082c42b487b63
+# Date: 2015-07-01 19:40:11 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: ce265f56f8f510447a95dca5c4e62c2dac98e06d
+# Date: 2015-06-25 18:51:04 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 2189504a449ca2a073da4eaab4840898f025e306
+# Date: 2015-05-07 22:40:12 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 687bada9e1aa5b240aed8964f0b65e9dad455a43
+# Date: 2015-03-11 00:57:46 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 2df985f37731320395a6a519fc65e1d3db7ac770
+# Date: 2015-03-10 01:00:57 +0000
+--------------------
+# Committed by: Paul Landers
+# Commit ID: 9785d080af720ca324d2eb13822bbd78f764bf48
+# Date: 2015-01-08 23:52:59 +0000
+--------------------
+# Committed by: Doug Simons
+# Commit ID: 61695272c58fc799cbd223b4054ba0114c0e2fb5
+# Date: 2014-07-14 20:08:26 +0000
+--------------------
+# Committed by: Frank Le Grand
+# Commit ID: 4b27157a46ce2a51d886db45ac5ccfec1b00c1d0
+# Date: 2013-08-09 14:24:48 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 417d2f9a540f08b57b6b81b13a406d2b80469f35
+# Date: 2013-07-10 20:25:50 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 3b710d1c377e87893165c5c6de4e68c99cc2b320
+# Date: 2013-07-10 15:59:56 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 139c233e057bea9c56e3c9ce85879ca34c2aea56
+# Date: 2013-06-11 23:51:18 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: f3b7ab026adbbef6918c2bf94080ef8b289e45e8
+# Date: 2012-10-16 17:16:30 +0000
+########## End of Keysight Technologies Notice ##########
 /** <title>NSMenu</title>
 
    Copyright (C) 1999 Free Software Foundation, Inc.

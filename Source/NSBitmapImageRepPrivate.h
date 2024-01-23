@@ -1,3 +1,8 @@
+########## Keysight Technologies Added Changes To Satisfy LGPL 2.x Section 2(a) Requirements ##########
+# Committed by: Marcian Lytwyn
+# Commit ID: fd1151130980599f152ec95185ebc21d5942808c
+# Date: 2016-10-05 20:16:53 +0000
+########## End of Keysight Technologies Notice ##########
 /** <title>NSBitmapImageRepPrivate.h</title>
 
    <abstract>The private methods of the NSBitmapImageRep classes.</abstract>

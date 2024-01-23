@@ -1,3 +1,80 @@
+########## Keysight Technologies Added Changes To Satisfy LGPL 2.x Section 2(a) Requirements ##########
+# Committed by: Marcian Lytwyn
+# Commit ID: b6bacd2721f7ace55ff3abd3da660ba90027fe2c
+# Date: 2017-06-09 23:50:40 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 746087b4ea838e2c08107b9cca20cb6c9cfe4103
+# Date: 2016-04-06 20:58:26 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 5b5197d30801ca0dc5be89d670d04608998da0b6
+# Date: 2016-04-06 18:13:09 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 5e8e28525408b4dc70480d543d8e011c32c2bc81
+# Date: 2015-06-26 18:05:15 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 3238f42ec6968f85f910ba78e04a2fddf83e3e6e
+# Date: 2015-06-26 00:29:04 +0000
+--------------------
+# Committed by: Doug Simons
+# Commit ID: cf0a37304e576042f78e895448d6486e4655916f
+# Date: 2014-04-25 17:02:48 +0000
+--------------------
+# Committed by: Doug Simons
+# Commit ID: a2c9a6f5831d2fac6ce24548849774ab6f26cb11
+# Date: 2014-04-24 22:20:56 +0000
+--------------------
+# Committed by: Doug Simons
+# Commit ID: 0d02e513d8946ae2ba1ad6970ae8799ec81002ec
+# Date: 2014-04-24 21:07:59 +0000
+--------------------
+# Committed by: Frank Le Grand
+# Commit ID: f203fea7d716649bfd6bf55273fdc6ac5227d4fa
+# Date: 2014-02-19 03:40:26 +0000
+--------------------
+# Committed by: Frank Le Grand
+# Commit ID: 4b27157a46ce2a51d886db45ac5ccfec1b00c1d0
+# Date: 2013-08-09 14:24:48 +0000
+--------------------
+# Committed by: Frank Le Grand
+# Commit ID: 7ac1d3dd1c35a463cf31629c55e1ceb2551232b0
+# Date: 2013-04-25 20:43:58 +0000
+--------------------
+# Committed by: Frank Le Grand
+# Commit ID: 588eab8526861a2614d5fa51d38a27db617fdad0
+# Date: 2013-04-24 16:47:43 +0000
+--------------------
+# Committed by: Frank Le Grand
+# Commit ID: 9f1f9be84e1db7f1956bed1adb644409f809cc83
+# Date: 2013-03-11 16:25:00 +0000
+--------------------
+# Committed by: Frank Le Grand
+# Commit ID: d3b8f3ae90d1f97baba9deeaa55924a6fd9c2a43
+# Date: 2013-03-08 22:59:40 +0000
+--------------------
+# Committed by: Frank Le Grand
+# Commit ID: efc1c707a086106b70c4b54b048983224e3ecb02
+# Date: 2013-03-07 23:57:49 +0000
+--------------------
+# Committed by: Frank Le Grand
+# Commit ID: cc357289fad225b5824535b0406918878bd0ffe3
+# Date: 2013-03-06 00:05:18 +0000
+--------------------
+# Committed by: Frank Le Grand
+# Commit ID: b8cf0d69570b3fd6064a2f41a4bc1d2d9750eb81
+# Date: 2013-03-04 16:40:21 +0000
+--------------------
+# Committed by: Frank Le Grand
+# Commit ID: d1bb44a910acbce4439269e2b98b2dac07bedee8
+# Date: 2013-03-01 00:04:56 +0000
+--------------------
+# Committed by: Frank Le Grand
+# Commit ID: c9f3f71f41d44759377cd69fc8f7a1da773dc27a
+# Date: 2013-02-21 22:23:36 +0000
+########## End of Keysight Technologies Notice ##########
 /** <title>NSCollectionView</title>
  
    Copyright (C) 2013 Free Software Foundation, Inc.

@@ -1,3 +1,72 @@
+########## Keysight Technologies Added Changes To Satisfy LGPL 2.x Section 2(a) Requirements ##########
+# Committed by: Marcian Lytwyn
+# Commit ID: b18d21e186b77af0cea2150e4cb907ba14e21d11
+# Date: 2017-08-25 18:37:18 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 3510c0b3ea1a9577cbd9cd2269a498b54c9a501f
+# Date: 2017-08-25 18:34:57 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 5c3e912196cac2a504519bbeec240658674070be
+# Date: 2017-08-24 21:45:02 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 4f25e00d91540f2bf163bf84c586cb0311f27bb8
+# Date: 2017-08-16 17:28:43 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 08cda98199a442b8a1303d384f1faff65f1e94c1
+# Date: 2017-08-16 17:26:18 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 3a116b7ff4937ce88be73a9424c7c707ebda48e0
+# Date: 2017-08-16 15:23:00 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: ba616a12e5f07192d80786ce4f583bc6cc03b172
+# Date: 2017-06-14 17:08:55 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: c44091c58de0a6a94cb11f98294fc2b0ccd47158
+# Date: 2017-06-08 22:19:35 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 7ccd9399824a813c8f2cc3c84309cd6222a47726
+# Date: 2017-06-06 20:28:38 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: bc4a059ac4fa7fadcec7aa8cd3ba95f3f875f488
+# Date: 2017-06-06 16:56:43 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 9b40beea53d00935078ba8ce2a2c1051aaa0d804
+# Date: 2016-11-24 17:55:35 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 8bdc94322b04dbdb69ff3fd5dd16694fbf72d1e4
+# Date: 2016-10-05 22:24:16 +0000
+--------------------
+# Committed by: Doug Simons
+# Commit ID: 6d5c72929a9c3798479e25b29135ca2a8ddb52d4
+# Date: 2015-08-14 20:51:12 +0000
+--------------------
+# Committed by: Doug Simons
+# Commit ID: d905991ebe116c3f3462f1024c62549ca1626391
+# Date: 2015-07-16 22:26:17 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: de5f907dcae55a0a0a8af1653c5e6c379ab2a4bc
+# Date: 2015-07-08 22:21:16 +0000
+--------------------
+# Committed by: Doug Simons
+# Commit ID: 510212e29fe9e24aad2e0b4fc4c68329099626ca
+# Date: 2015-06-10 22:57:19 +0000
+--------------------
+# Committed by: Frank Le Grand
+# Commit ID: 4b27157a46ce2a51d886db45ac5ccfec1b00c1d0
+# Date: 2013-08-09 14:24:48 +0000
+########## End of Keysight Technologies Notice ##########
 /** <title>NSSplitView</title>
 
    <abstract>Allows multiple views to share a region in a window</abstract>

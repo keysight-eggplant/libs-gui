@@ -1,3 +1,48 @@
+########## Keysight Technologies Added Changes To Satisfy LGPL 2.x Section 2(a) Requirements ##########
+# Committed by: Marcian Lytwyn
+# Commit ID: 69b046a0afd8d8616e4b37671a9318dc0c27d68e
+# Date: 2017-12-11 18:00:52 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 189ee17b085741d979a2e3e3df25365c829940cc
+# Date: 2016-10-04 22:24:37 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 0f67bc7f81cb775927d07e9cf4754d7809d37be0
+# Date: 2016-08-08 21:32:45 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 99ab6e9a4e18ccf77db73e1000067ae631560153
+# Date: 2016-08-08 16:15:44 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 4a6bb4f124f50e525e9f8f19104810b806cf7e92
+# Date: 2016-05-29 21:33:25 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 37d1868b9966035a523bc19a24f57c76b2e1022a
+# Date: 2016-03-10 23:48:17 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 33f9a1c1940673ae818387657b0752f4c1dc3d18
+# Date: 2016-02-23 17:36:40 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 69b8e9df346a71b1fbdc992653240b7ff5a724da
+# Date: 2016-02-05 20:46:25 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: da8969cb41d8b42b1f2894f34b28a89f2c5b4181
+# Date: 2015-12-28 23:17:11 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: fef3c6ca6de0b27819643dd6312979b0ddee1c0e
+# Date: 2015-10-27 20:24:46 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 627b1751d51f9a125d98a0d4a6bf038b47a539a7
+# Date: 2015-10-27 19:41:45 +0000
+########## End of Keysight Technologies Notice ##########
 /** <title>NSPasteboard</title>
 
    <abstract>Implementation of class for communicating with the

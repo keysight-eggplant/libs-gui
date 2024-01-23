@@ -1,3 +1,116 @@
+########## Keysight Technologies Added Changes To Satisfy LGPL 2.x Section 2(a) Requirements ##########
+# Committed by: williameveretteggplant
+# Commit ID: 243b900b03abf7a3afeca3f0e4ddd5727f0f36e2
+# Date: 2022-02-04 10:11:44 -0700
+--------------------
+# Committed by: Adam Fox
+# Commit ID: d4ad7cbf3154b96b6d0d7c027cfe79a02a18b0fe
+# Date: 2018-06-29 18:06:55 +0000
+--------------------
+# Committed by: Adam Fox
+# Commit ID: 290fcb46e48596b224a97c3eaaf4d1c57c73d3bd
+# Date: 2018-06-26 22:37:16 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: dfbad0a11f3658e6fef95ba5610b3d858565b499
+# Date: 2018-01-06 14:17:10 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: d70d2a86e331030e32ced5d70a6658b111caa458
+# Date: 2017-12-19 17:31:24 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: e497a114efbc43fc39d6cfa014be6a2555dc5a34
+# Date: 2017-10-02 21:48:20 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 56b7120411be37c14fd46a9d46403302e6db6332
+# Date: 2017-10-02 19:45:35 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: f41b38b0003bd2b1a62243c329a8b35a4c6d331a
+# Date: 2017-02-12 18:40:35 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 969b4894527d457dada0447762c3136db0f7f1b9
+# Date: 2017-02-12 18:25:21 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: d4462714dd57d309522b620883712b532c278638
+# Date: 2017-02-09 15:09:22 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: a856194abac555804ed651f9e00d87872194931f
+# Date: 2016-02-02 23:26:13 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 3653dd62ec9fb82549e8085709727e1f35ceb431
+# Date: 2015-09-11 15:46:22 +0000
+--------------------
+# Committed by: Paul Landers
+# Commit ID: 9bcec869896d0130ece86c3af57d8e212b759989
+# Date: 2015-08-17 17:41:37 +0000
+--------------------
+# Committed by: Adam Fox
+# Commit ID: e53c91a2fb460911e85fe5c0597d167a3844b60f
+# Date: 2015-08-12 17:21:42 +0000
+--------------------
+# Committed by: Adam Fox
+# Commit ID: 00e7aa5a614c5a5b9ed962a4bbc3699bdd937864
+# Date: 2015-08-11 23:37:34 +0000
+--------------------
+# Committed by: Adam Fox
+# Commit ID: e5802095e8da058fae80f74a776561c85b68bcd0
+# Date: 2015-08-11 19:16:12 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: de5f907dcae55a0a0a8af1653c5e6c379ab2a4bc
+# Date: 2015-07-08 22:21:16 +0000
+--------------------
+# Committed by: Doug Simons
+# Commit ID: 5c75af1e49508ead32abdb6c5d8d1d3d4524a880
+# Date: 2015-01-08 20:32:49 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: fd815172ac073a7065a3696c31fd458942f59f41
+# Date: 2014-12-03 18:49:58 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 706eec3f245dce9e15e076e03cdb0361a64c2e57
+# Date: 2014-02-24 22:18:38 +0000
+--------------------
+# Committed by: Frank Le Grand
+# Commit ID: 4d5c80b58c3441179d020ee95ee88a0aafba8fe5
+# Date: 2013-10-01 15:41:37 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 5bebf8d94e9a82d0b42948d3d2b77339a1e28584
+# Date: 2013-09-11 18:43:55 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 45c1de514fc6772ddf97d03e9d5426f0d4334a7c
+# Date: 2013-09-11 17:55:12 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: a9e4f72f54f31a379fd31f6f02fb8037cc58c1b5
+# Date: 2013-09-09 01:54:02 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 3ed2a612adf5dfe3c9accbb12f4e26c3d2a1e26e
+# Date: 2013-09-03 22:36:08 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 6f19ceff5fe316db16eda703ac14670bffdd59b5
+# Date: 2013-09-03 20:50:16 +0000
+--------------------
+# Committed by: Frank Le Grand
+# Commit ID: 4b27157a46ce2a51d886db45ac5ccfec1b00c1d0
+# Date: 2013-08-09 14:24:48 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 43a41c50fcee902965bd2c6b17d480b9788351c1
+# Date: 2012-12-15 04:50:05 +0000
+########## End of Keysight Technologies Notice ##########
 /** <title>NSTextView</title>
 
    Copyright (C) 1996, 1998, 2000, 2001, 2002, 2003, 2008 Free Software Foundation, Inc.

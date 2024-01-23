@@ -1,3 +1,32 @@
+########## Keysight Technologies Added Changes To Satisfy LGPL 2.x Section 2(a) Requirements ##########
+# Committed by: Marcian Lytwyn
+# Commit ID: 2ec1378144ea56f2fe2a4412f184c6606af40376
+# Date: 2015-07-02 00:51:10 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 98a33c53db257275d36d899114856db1aed8e4fe
+# Date: 2014-08-05 02:52:03 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 5b0b6139907e9b72d4da0a8a58d17db353c6fe24
+# Date: 2014-08-04 21:53:24 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 1765fa369872146db85e5ed9b7d5f97018d6adc6
+# Date: 2014-08-04 21:22:13 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: a5e0050e558976d6540519dc1307b7b3abb3595d
+# Date: 2014-08-01 20:59:46 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: c008417ba08b5dbadd8307088d056289e07ea1a0
+# Date: 2014-08-01 20:46:33 +0000
+--------------------
+# Committed by: Frank Le Grand
+# Commit ID: 4b27157a46ce2a51d886db45ac5ccfec1b00c1d0
+# Date: 2013-08-09 14:24:48 +0000
+########## End of Keysight Technologies Notice ##########
 /** <title>NSProgressIndicator</title>
 
    Copyright (C) 1999 Free Software Foundation, Inc.

@@ -1,3 +1,20 @@
+########## Keysight Technologies Added Changes To Satisfy LGPL 2.x Section 2(a) Requirements ##########
+# Committed by: Marcian Lytwyn
+# Commit ID: 8bdc94322b04dbdb69ff3fd5dd16694fbf72d1e4
+# Date: 2016-10-05 22:24:16 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 060fca2f5082fa6e45f70595dba60a9c4cd1850c
+# Date: 2015-06-20 16:06:26 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 36e77b95f7921e9539fdc0c115fe4039fa573150
+# Date: 2012-10-19 22:51:20 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 0520b35f0740266eb3708e47621ce4be9a551cc7
+# Date: 2012-09-03 20:39:02 +0000
+########## End of Keysight Technologies Notice ##########
 /** <title>NSTabViewItem</title>
 
    Copyright (C) 2000-2016 Free Software Foundation, Inc.

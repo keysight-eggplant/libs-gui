@@ -1,3 +1,20 @@
+########## Keysight Technologies Added Changes To Satisfy LGPL 2.x Section 2(a) Requirements ##########
+# Committed by: Marcian Lytwyn
+# Commit ID: a334cb51a730ed206e95ab32642a55ac9b232586
+# Date: 2017-02-01 02:17:33 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 091858c26ae9cea05fc1cb67df60f0834def9eb6
+# Date: 2016-12-15 18:36:56 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 8d6d271138249fc3a1aa9d14ba4e92d549677206
+# Date: 2016-12-06 23:44:45 +0000
+--------------------
+# Committed by: Frank Le Grand
+# Commit ID: 4b27157a46ce2a51d886db45ac5ccfec1b00c1d0
+# Date: 2013-08-09 14:24:48 +0000
+########## End of Keysight Technologies Notice ##########
 /** <title>NSTableHeaderView</title>
 
    Copyright (C) 1999 Free Software Foundation, Inc.

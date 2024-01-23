@@ -1,3 +1,32 @@
+########## Keysight Technologies Added Changes To Satisfy LGPL 2.x Section 2(a) Requirements ##########
+# Committed by: Marcian Lytwyn
+# Commit ID: c21ee9c98af02b1e9cbac0151dbd0344baf57100
+# Date: 2020-04-22 14:58:53 -0400
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 247499329e2e72dcdee644454f1e3909e4b0c534
+# Date: 2020-04-22 13:17:27 -0400
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: a1d62943a6153190d2403fd79327deaa45268775
+# Date: 2016-10-04 22:11:05 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 94b64d8f6b48d6850f0debbeddfff58114e0b872
+# Date: 2015-06-30 21:58:51 +0000
+--------------------
+# Committed by: Paul Landers
+# Commit ID: 6adda710e5e4c15d127594af5c97500910be9e52
+# Date: 2014-09-12 16:13:48 +0000
+--------------------
+# Committed by: Frank Le Grand
+# Commit ID: 4b27157a46ce2a51d886db45ac5ccfec1b00c1d0
+# Date: 2013-08-09 14:24:48 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 36e77b95f7921e9539fdc0c115fe4039fa573150
+# Date: 2012-10-19 22:51:20 +0000
+########## End of Keysight Technologies Notice ##########
 /** <title>NSDocumentController</title>
 
    <abstract>The document controller class</abstract>

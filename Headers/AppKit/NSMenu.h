@@ -1,3 +1,36 @@
+########## Keysight Technologies Added Changes To Satisfy LGPL 2.x Section 2(a) Requirements ##########
+# Committed by: Marcian Lytwyn
+# Commit ID: f94de70e0d4185ea7594e78faf5c79c892c000ee
+# Date: 2017-08-10 22:06:48 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: a1d62943a6153190d2403fd79327deaa45268775
+# Date: 2016-10-04 22:11:05 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: de5f907dcae55a0a0a8af1653c5e6c379ab2a4bc
+# Date: 2015-07-08 22:21:16 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: a5f529e0df601b9d25341078ccaa21b8c8b1703e
+# Date: 2015-07-01 23:01:02 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 2189504a449ca2a073da4eaab4840898f025e306
+# Date: 2015-05-07 22:40:12 +0000
+--------------------
+# Committed by: Doug Simons
+# Commit ID: 61695272c58fc799cbd223b4054ba0114c0e2fb5
+# Date: 2014-07-14 20:08:26 +0000
+--------------------
+# Committed by: Frank Le Grand
+# Commit ID: 4b27157a46ce2a51d886db45ac5ccfec1b00c1d0
+# Date: 2013-08-09 14:24:48 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: f3b7ab026adbbef6918c2bf94080ef8b289e45e8
+# Date: 2012-10-16 17:16:30 +0000
+########## End of Keysight Technologies Notice ##########
 /* 
    NSMenu.h
 

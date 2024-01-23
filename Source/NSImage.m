@@ -1,3 +1,60 @@
+########## Keysight Technologies Added Changes To Satisfy LGPL 2.x Section 2(a) Requirements ##########
+# Committed by: Marcian Lytwyn
+# Commit ID: 25897d63e86923f20c8aa3505d1a1f8d726462c8
+# Date: 2016-12-22 20:56:31 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: a1d62943a6153190d2403fd79327deaa45268775
+# Date: 2016-10-04 22:11:05 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 2c8aba77c62d984cc8b9acebdbd0cff9ff2f077e
+# Date: 2016-03-09 16:28:35 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: d867a44374bc5c93184fb029cf16720d894f914d
+# Date: 2015-06-30 23:04:56 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 2623a6af57c8631fa592b23c31ce05db3c305935
+# Date: 2015-06-11 21:59:20 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 20f140ca291b99faeda92fb2e78af282c55aacb3
+# Date: 2015-06-11 21:58:35 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: a768e5ab48e32e27e4b0c77c59c13c0769b35abe
+# Date: 2015-06-11 21:03:05 +0000
+--------------------
+# Committed by: Jonathan Gillaspie
+# Commit ID: a139d7094a81d2d03dacec3546b5517b648b9a9a
+# Date: 2014-01-23 16:13:37 +0000
+--------------------
+# Committed by: Frank Le Grand
+# Commit ID: c6fdf580ff0c5a3524e0b2876384a88d3b2fb1fc
+# Date: 2013-10-10 18:12:15 +0000
+--------------------
+# Committed by: Frank Le Grand
+# Commit ID: 44c6dfb6501d8244d19de2324c8dd23da46d6ec8
+# Date: 2013-10-03 20:20:25 +0000
+--------------------
+# Committed by: Frank Le Grand
+# Commit ID: 4b27157a46ce2a51d886db45ac5ccfec1b00c1d0
+# Date: 2013-08-09 14:24:48 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 36e77b95f7921e9539fdc0c115fe4039fa573150
+# Date: 2012-10-19 22:51:20 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 0cb516732219a9358695fe97a93c4ad3e39c9799
+# Date: 2012-08-13 22:37:18 +0000
+--------------------
+# Committed by: Gregory John Casamento
+# Commit ID: eee9416e6b1f4bdf6c91fd1bf901ea162895f33f
+# Date: 2012-07-24 17:04:52 +0000
+########## End of Keysight Technologies Notice ##########
 /** <title>NSImage</title>
 
    <abstract>Load, manipulate and display images</abstract>

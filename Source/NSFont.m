@@ -1,3 +1,44 @@
+########## Keysight Technologies Added Changes To Satisfy LGPL 2.x Section 2(a) Requirements ##########
+# Committed by: Paul Landers
+# Commit ID: e1d7e808a9dc1464070c539d574be2f6e4c9e3df
+# Date: 2016-10-17 21:00:58 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: ab97ddee5fec246796ae8d9f23dc2fb1cc5642e5
+# Date: 2016-10-05 21:18:43 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 20d5565cdd6e1166f6a77c0ea003915130c60a4f
+# Date: 2015-08-16 22:46:40 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: a333b4608e35c63c60cc3443711a5bd9c78ae0e4
+# Date: 2015-07-22 16:02:13 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: d1ea62a81e1bdc21081842c452e8d48b918e9f6a
+# Date: 2015-07-22 15:40:43 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 1c53e7f71876a57dd2c43e1902b904c73e0a31d6
+# Date: 2015-07-22 15:23:04 +0000
+--------------------
+# Committed by: Paul Landers
+# Commit ID: 6433adc7632cd1e41be66c1cd394b6dad2e74c8b
+# Date: 2015-07-14 21:27:06 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: f59bd5478ce9cb092c8c514c77ef814977c2cd27
+# Date: 2015-06-30 22:16:24 +0000
+--------------------
+# Committed by: Frank Le Grand
+# Commit ID: 4b27157a46ce2a51d886db45ac5ccfec1b00c1d0
+# Date: 2013-08-09 14:24:48 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: b5f4b49fdbffae9d98cbec37fee2fc8aa749468f
+# Date: 2012-08-08 22:46:54 +0000
+########## End of Keysight Technologies Notice ##########
 /** <title>NSFont</title>
 
    <abstract>The font class</abstract>

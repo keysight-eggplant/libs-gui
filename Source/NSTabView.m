@@ -1,3 +1,64 @@
+########## Keysight Technologies Added Changes To Satisfy LGPL 2.x Section 2(a) Requirements ##########
+# Committed by: Marcian Lytwyn
+# Commit ID: fd09bcdbca7189a049160254af4bfa81c7c84d0c
+# Date: 2018-11-16 17:09:08 +0000
+--------------------
+# Committed by: Bekki Freeman
+# Commit ID: 7539512b9a35e5d151b349f43f2f082c081c687a
+# Date: 2017-09-22 18:04:50 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 31f52310df1070560f65479c26efcfa2fac99342
+# Date: 2017-01-25 15:49:14 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 78b58c0f2442acd1a0dfb306ccb75ca44df0c9cc
+# Date: 2015-07-20 19:50:40 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 31ffdc9fd5fa305762fe3b39b4b218e9df4e4619
+# Date: 2015-07-20 19:48:22 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 060fca2f5082fa6e45f70595dba60a9c4cd1850c
+# Date: 2015-06-20 16:06:26 +0000
+--------------------
+# Committed by: Jonathan Gillaspie
+# Commit ID: a9cac5d99a95713b5afe34120ccf3014227bd71d
+# Date: 2014-01-23 16:17:21 +0000
+--------------------
+# Committed by: Jonathan Gillaspie
+# Commit ID: a139d7094a81d2d03dacec3546b5517b648b9a9a
+# Date: 2014-01-23 16:13:37 +0000
+--------------------
+# Committed by: Frank Le Grand
+# Commit ID: 425fbcd681c5c1f4efb5297b33c5b5a110bf8471
+# Date: 2013-08-23 21:33:02 +0000
+--------------------
+# Committed by: Frank Le Grand
+# Commit ID: 4b27157a46ce2a51d886db45ac5ccfec1b00c1d0
+# Date: 2013-08-09 14:24:48 +0000
+--------------------
+# Committed by: Frank Le Grand
+# Commit ID: d3b8f3ae90d1f97baba9deeaa55924a6fd9c2a43
+# Date: 2013-03-08 22:59:40 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: cdf826a4d02f9a5b72d7522ca738a8a43a906d42
+# Date: 2012-10-30 20:10:12 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 36e77b95f7921e9539fdc0c115fe4039fa573150
+# Date: 2012-10-19 22:51:20 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: ed7a880a0c9c00b3e395a5089a5c82c96b1d365e
+# Date: 2012-09-12 00:36:49 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 0c5c7ed17e54a83142de6d8577a552aba9c75c32
+# Date: 2012-09-04 16:47:03 +0000
+########## End of Keysight Technologies Notice ##########
 /** <title>NSTabView</title>
 
    <abstract>The tabular view class</abstract>

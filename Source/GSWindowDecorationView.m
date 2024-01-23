@@ -1,3 +1,20 @@
+########## Keysight Technologies Added Changes To Satisfy LGPL 2.x Section 2(a) Requirements ##########
+# Committed by: Marcian Lytwyn
+# Commit ID: 155a17ec60ab9c2a1d264e476e3ec7cee7a426fc
+# Date: 2016-11-25 17:02:46 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: fbbca0182cd25ad324686f531dbd794cff7aafc9
+# Date: 2015-06-26 16:59:32 +0000
+--------------------
+# Committed by: Frank Le Grand
+# Commit ID: 4b27157a46ce2a51d886db45ac5ccfec1b00c1d0
+# Date: 2013-08-09 14:24:48 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 2887e68d43b695242a07c2c5b3ad822006a90513
+# Date: 2012-10-17 20:10:28 +0000
+########## End of Keysight Technologies Notice ##########
 /** <title>GSWindowDecorationView</title>
 
    Copyright (C) 2004 Free Software Foundation, Inc.

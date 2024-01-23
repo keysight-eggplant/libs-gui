@@ -1,3 +1,36 @@
+########## Keysight Technologies Added Changes To Satisfy LGPL 2.x Section 2(a) Requirements ##########
+# Committed by: Marcian Lytwyn
+# Commit ID: b804b27a9bfbfa1123b84c8342445974b3ecb375
+# Date: 2018-09-13 17:21:39 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: e01ab84cb4956e9d484c2a1f9aefe5e8c95537e9
+# Date: 2017-09-13 20:53:23 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 89ca0555a337d166e392aec5304e09b3b0187e63
+# Date: 2017-09-09 15:59:57 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 602cc66c591b6e345468f46a7a38181b3c7f8401
+# Date: 2017-08-15 14:38:55 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: e4452d29663597d92a47a2367fc568094ecb4fdd
+# Date: 2017-07-19 23:07:16 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: e59e74cb909d546216e350c4b5fc3ac610e13858
+# Date: 2016-12-22 19:13:26 +0000
+--------------------
+# Committed by: Doug Simons
+# Commit ID: 68a8e6c19f1d58c6a8a2a0069428ab5c46ed75c0
+# Date: 2013-08-26 21:19:31 +0000
+--------------------
+# Committed by: Frank Le Grand
+# Commit ID: 4b27157a46ce2a51d886db45ac5ccfec1b00c1d0
+# Date: 2013-08-09 14:24:48 +0000
+########## End of Keysight Technologies Notice ##########
 /*
    GSLayoutManager.m
 

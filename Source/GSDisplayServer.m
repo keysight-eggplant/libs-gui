@@ -1,3 +1,56 @@
+########## Keysight Technologies Added Changes To Satisfy LGPL 2.x Section 2(a) Requirements ##########
+# Committed by: Marcian Lytwyn
+# Commit ID: ef92cdbc23cf7b0f71cfbb23b9809d77d4034313
+# Date: 2017-02-17 21:48:26 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 3efb33e35c2a0cea19b91348f545685ca182bc90
+# Date: 2016-12-22 17:22:48 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 8736e0b0d639c577b581380deafdab86b42f0e3c
+# Date: 2016-12-21 19:19:41 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 155a17ec60ab9c2a1d264e476e3ec7cee7a426fc
+# Date: 2016-11-25 17:02:46 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 056c24bf985562ddee9828a8aa5f75dcdae7a5a9
+# Date: 2016-11-09 21:26:14 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 0d0695634b0851eaf70a8e6d1c93acb32014dc69
+# Date: 2016-11-09 21:17:55 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: f32af34fe804b7d3f17ae63bd9277b80203781fc
+# Date: 2016-11-08 21:38:17 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: c6a5c9a81e2db87622cb6aabb593270345282c3e
+# Date: 2015-06-11 17:48:41 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 1794273db52fef074e5e901a56915a6b365ab62b
+# Date: 2015-03-26 19:52:49 +0000
+--------------------
+# Committed by: Frank Le Grand
+# Commit ID: 4b27157a46ce2a51d886db45ac5ccfec1b00c1d0
+# Date: 2013-08-09 14:24:48 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 36e77b95f7921e9539fdc0c115fe4039fa573150
+# Date: 2012-10-19 22:51:20 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 4c16370ff9448c411c9018d9583e2a6ee7d07626
+# Date: 2012-10-11 20:41:07 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 3dc7b38bc7f69038c629fabe4b1b4676d00ac569
+# Date: 2012-09-19 21:29:40 +0000
+########## End of Keysight Technologies Notice ##########
 /** <title>GSDisplayServer</title>
 
    <abstract>Abstract display server class.</abstract>

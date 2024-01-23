@@ -1,3 +1,8 @@
+########## Keysight Technologies Added Changes To Satisfy LGPL 2.x Section 2(a) Requirements ##########
+# Committed by: Marcian Lytwyn
+# Commit ID: 3ff9ce440d56933d7b3615697751c28fa880dd6f
+# Date: 2017-04-08 00:04:47 +0000
+########## End of Keysight Technologies Notice ##########
 /** <title>NSImageCell</title>
 
    <abstract>The image cell class</abstract>

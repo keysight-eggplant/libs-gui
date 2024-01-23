@@ -1,3 +1,8 @@
+########## Keysight Technologies Added Changes To Satisfy LGPL 2.x Section 2(a) Requirements ##########
+# Committed by: Marcian Lytwyn
+# Commit ID: c6a5c9a81e2db87622cb6aabb593270345282c3e
+# Date: 2015-06-11 17:48:41 +0000
+########## End of Keysight Technologies Notice ##########
 /** <title>GSThemeOpenSavePanels</title>
 
    <abstract>Methods for themes using open and save panels.</abstract>

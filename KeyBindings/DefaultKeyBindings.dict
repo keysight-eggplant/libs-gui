@@ -1,3 +1,12 @@
+########## Keysight Technologies Added Changes To Satisfy LGPL 2.x Section 2(a) Requirements ##########
+# Committed by: Paul Landers
+# Commit ID: b37d2e7d51ed0984cfef5f9024194fb5c16de541
+# Date: 2015-05-14 19:27:29 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 3ed2a612adf5dfe3c9accbb12f4e26c3d2a1e26e
+# Date: 2013-09-03 22:36:08 +0000
+########## End of Keysight Technologies Notice ##########
 { /* -*-c-*- */
   /* Auto-Completion key */
   "Escape" = "complete:";

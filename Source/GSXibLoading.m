@@ -1,3 +1,32 @@
+########## Keysight Technologies Added Changes To Satisfy LGPL 2.x Section 2(a) Requirements ##########
+# Committed by: Marcian Lytwyn
+# Commit ID: fefc425636935f687354dcb8ff200fce6f740102
+# Date: 2017-08-31 15:56:29 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 31f52310df1070560f65479c26efcfa2fac99342
+# Date: 2017-01-25 15:49:14 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 33ed3c7f759d5a1040d27e002f351d9f34ca4080
+# Date: 2016-03-08 19:39:32 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: faf6349ffda314a2ad4c601b9b3c49eac38336c3
+# Date: 2015-08-13 16:33:48 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: c6a5c9a81e2db87622cb6aabb593270345282c3e
+# Date: 2015-06-11 17:48:41 +0000
+--------------------
+# Committed by: Frank Le Grand
+# Commit ID: 4b27157a46ce2a51d886db45ac5ccfec1b00c1d0
+# Date: 2013-08-09 14:24:48 +0000
+--------------------
+# Committed by: Gregory John Casamento
+# Commit ID: 7b1a15cd96cb6cb282f2088ea39e5ba04a0088b6
+# Date: 2012-08-31 16:57:39 +0000
+########## End of Keysight Technologies Notice ##########
 #import <Foundation/NSObject.h>
 #import <Foundation/NSKeyedArchiver.h>
 #import "GNUstepGUI/GSXibElement.h"

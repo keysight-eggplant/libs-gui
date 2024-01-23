@@ -1,3 +1,8 @@
+########## Keysight Technologies Added Changes To Satisfy LGPL 2.x Section 2(a) Requirements ##########
+# Committed by: Marcian Lytwyn
+# Commit ID: 6c4ad9ef8dcd93f6fc3b9c9d7769f2b4558ae127
+# Date: 2015-06-30 22:06:42 +0000
+########## End of Keysight Technologies Notice ##########
 /* 
    NSFileWrapper.h
 

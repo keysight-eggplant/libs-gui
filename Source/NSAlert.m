@@ -1,3 +1,20 @@
+########## Keysight Technologies Added Changes To Satisfy LGPL 2.x Section 2(a) Requirements ##########
+# Committed by: Marcian Lytwyn
+# Commit ID: afd415b66876d8896eaf8c133e672aa763e5181e
+# Date: 2015-12-02 21:54:37 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 9bc4dda8ffa15cb0d842129d3099ec4185dc4d7b
+# Date: 2015-06-26 17:04:20 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 29a168d55468e5ab93b39168574e1e8fb21c7ed9
+# Date: 2015-03-26 22:06:52 +0000
+--------------------
+# Committed by: Frank Le Grand
+# Commit ID: 4b27157a46ce2a51d886db45ac5ccfec1b00c1d0
+# Date: 2013-08-09 14:24:48 +0000
+########## End of Keysight Technologies Notice ##########
 /** <title>NSAlert</title>
 
    <abstract>Encapsulate an alert panel</abstract>

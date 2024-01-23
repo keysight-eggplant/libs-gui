@@ -1,3 +1,48 @@
+########## Keysight Technologies Added Changes To Satisfy LGPL 2.x Section 2(a) Requirements ##########
+# Committed by: David Vernon
+# Commit ID: 5dda45045ef084b787bf3968794a39f742cd81f7
+# Date: 2017-11-14 18:00:44 +0000
+--------------------
+# Committed by: David Vernon
+# Commit ID: c38733347b21f0a8f2c4ba90b5175495025b627a
+# Date: 2017-11-01 14:53:42 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 3d70b1bdd0cfeb1980dd02debec2425d6687a204
+# Date: 2017-09-16 18:40:54 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: b086ff6ebec10bda1ea9687ab427cd28be3e1a54
+# Date: 2017-03-19 15:01:42 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 246b0f75fabe321ce5eb26f6ddb96a763a25b673
+# Date: 2017-03-12 01:39:13 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 2c8aba77c62d984cc8b9acebdbd0cff9ff2f077e
+# Date: 2016-03-09 16:28:35 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 0ccefadb4714c1ed670b415cdb03779210a802f7
+# Date: 2015-06-26 17:22:16 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 62a9bc7fe092eef15ebbe9aa8af28422140b4351
+# Date: 2015-03-27 00:11:44 +0000
+--------------------
+# Committed by: Doug Simons
+# Commit ID: 8457967877762887f8cd1fb5019255d6b377d562
+# Date: 2015-03-12 01:13:03 +0000
+--------------------
+# Committed by: Frank Le Grand
+# Commit ID: 4b27157a46ce2a51d886db45ac5ccfec1b00c1d0
+# Date: 2013-08-09 14:24:48 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 36e77b95f7921e9539fdc0c115fe4039fa573150
+# Date: 2012-10-19 22:51:20 +0000
+########## End of Keysight Technologies Notice ##########
 /** <title>NSApplication</title>
 
    <abstract>The one and only application class.</abstract>

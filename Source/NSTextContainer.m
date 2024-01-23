@@ -1,3 +1,20 @@
+########## Keysight Technologies Added Changes To Satisfy LGPL 2.x Section 2(a) Requirements ##########
+# Committed by: Marcian Lytwyn
+# Commit ID: 09e157a46691bcb0bcea0c0cc67ffb28464dc64a
+# Date: 2017-09-09 13:49:24 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: e5ad7b40528057b730b7d92891d976d82e51d404
+# Date: 2017-09-09 01:54:22 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: de5f907dcae55a0a0a8af1653c5e6c379ab2a4bc
+# Date: 2015-07-08 22:21:16 +0000
+--------------------
+# Committed by: Frank Le Grand
+# Commit ID: 4b27157a46ce2a51d886db45ac5ccfec1b00c1d0
+# Date: 2013-08-09 14:24:48 +0000
+########## End of Keysight Technologies Notice ##########
 /** <title>NSTextContainer</title>
 
    Copyright (C) 1999 Free Software Foundation, Inc.

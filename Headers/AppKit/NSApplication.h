@@ -1,3 +1,20 @@
+########## Keysight Technologies Added Changes To Satisfy LGPL 2.x Section 2(a) Requirements ##########
+# Committed by: Marcian Lytwyn
+# Commit ID: 2c8aba77c62d984cc8b9acebdbd0cff9ff2f077e
+# Date: 2016-03-09 16:28:35 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 3238f42ec6968f85f910ba78e04a2fddf83e3e6e
+# Date: 2015-06-26 00:29:04 +0000
+--------------------
+# Committed by: Frank Le Grand
+# Commit ID: 4b27157a46ce2a51d886db45ac5ccfec1b00c1d0
+# Date: 2013-08-09 14:24:48 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 36e77b95f7921e9539fdc0c115fe4039fa573150
+# Date: 2012-10-19 22:51:20 +0000
+########## End of Keysight Technologies Notice ##########
 /** 
    NSApplication.h
 

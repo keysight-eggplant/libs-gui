@@ -1,3 +1,32 @@
+########## Keysight Technologies Added Changes To Satisfy LGPL 2.x Section 2(a) Requirements ##########
+# Committed by: Marcian Lytwyn
+# Commit ID: c73f124614f77476aa5c631bcd95383a65ae9867
+# Date: 2017-02-27 16:40:56 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 5d1a88a4db78d3c1fe9b623770ce014dce2e7b9c
+# Date: 2016-11-08 21:34:45 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: e1a1070a18fd1895b4b6cdb2b0697c0a762ae5df
+# Date: 2016-10-05 18:14:43 +0000
+--------------------
+# Committed by: Frank Le Grand
+# Commit ID: 4b27157a46ce2a51d886db45ac5ccfec1b00c1d0
+# Date: 2013-08-09 14:24:48 +0000
+--------------------
+# Committed by: Jonathan Gillaspie
+# Commit ID: 9015fa656e487a07c890d3eb7fc2033c9c2c08b9
+# Date: 2013-03-14 00:00:10 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 36e77b95f7921e9539fdc0c115fe4039fa573150
+# Date: 2012-10-19 22:51:20 +0000
+--------------------
+# Committed by: Jonathan Gillaspie
+# Commit ID: 3a023b859a69bb4b4fa29d1ef0e8196e94821947
+# Date: 2012-09-04 20:21:31 +0000
+########## End of Keysight Technologies Notice ##########
 /** <title>NSWorkspace</title>
 
    <abstract>Workspace class</abstract>

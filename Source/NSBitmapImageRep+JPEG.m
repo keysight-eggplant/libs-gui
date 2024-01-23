@@ -1,3 +1,24 @@
+########## Keysight Technologies Added Changes To Satisfy LGPL 2.x Section 2(a) Requirements ##########
+# Committed by: Marcian Lytwyn
+# Commit ID: 249802750c68c59a3b2be149c7ba02a259b2984b
+# Date: 2020-07-23 15:29:49 -0400
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 43bbbfd0279c9a401cdf431daedcc1c2d7a16e4a
+# Date: 2016-12-28 19:32:04 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 4cb005897e0b9573f3afbb0c4e7b76ca71db29e8
+# Date: 2016-10-18 18:05:33 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 32c7e9a6a83fd083ea7337844917e7c7f8246db9
+# Date: 2016-10-05 19:06:59 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 6315d5f4b0a0a4037a2977e3a8db0e9c24c6a8c3
+# Date: 2015-06-20 16:37:34 +0000
+########## End of Keysight Technologies Notice ##########
 /* NSBitmapImageRep+JPEG.m
 
    Methods for reading jpeg images

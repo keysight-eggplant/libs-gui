@@ -1,3 +1,108 @@
+########## Keysight Technologies Added Changes To Satisfy LGPL 2.x Section 2(a) Requirements ##########
+# Committed by: Marcian Lytwyn
+# Commit ID: 958d3cb040cdfcef477691777f88a7fd7cbcbc94
+# Date: 2017-02-06 22:19:25 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 31f52310df1070560f65479c26efcfa2fac99342
+# Date: 2017-01-25 15:49:14 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: d6373fd31bbbfbc14e6e74b8c0a1c545e6419ae7
+# Date: 2016-12-28 21:13:46 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 4c396274daead8095a07010f54d749b90d3fe7e0
+# Date: 2016-11-11 23:47:35 +0000
+--------------------
+# Committed by: Paul Landers
+# Commit ID: e1d7e808a9dc1464070c539d574be2f6e4c9e3df
+# Date: 2016-10-17 21:00:58 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: fd1151130980599f152ec95185ebc21d5942808c
+# Date: 2016-10-05 20:16:53 +0000
+--------------------
+# Committed by: Paul Landers
+# Commit ID: ad38e101ccf8832cc0e35fcc8a2230322fb52f69
+# Date: 2016-06-29 17:23:52 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 05ab9d1f1b60b6827bbbf079f5cc60f55119a956
+# Date: 2016-06-23 22:44:29 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 24c6e2d30d0f616161c84a35fda0da49cecc8e6f
+# Date: 2016-04-06 21:13:11 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 1232765f08aa83e3712dfb41092ec6800b7db300
+# Date: 2016-02-02 22:23:47 +0000
+--------------------
+# Committed by: Paul Landers
+# Commit ID: 9bcec869896d0130ece86c3af57d8e212b759989
+# Date: 2015-08-17 17:41:37 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 5e8e28525408b4dc70480d543d8e011c32c2bc81
+# Date: 2015-06-26 18:05:15 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: ce265f56f8f510447a95dca5c4e62c2dac98e06d
+# Date: 2015-06-25 18:51:04 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: adbe4f11212b0bc470d0b301153ddc7980cb7eb8
+# Date: 2015-06-17 17:58:33 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: bee13c1d64e3232df27bdb4c99bdb9b87247a58d
+# Date: 2014-03-15 17:13:13 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: e1498b311a2d375f111e4725b5b09ae0677325b3
+# Date: 2013-11-01 23:20:18 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 012292682287b9e4582724a12a465f3510cbb669
+# Date: 2013-11-01 15:35:17 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: cdfe249de8173ffa8f24eec7c0e754b2e2b50848
+# Date: 2013-10-30 20:55:04 +0000
+--------------------
+# Committed by: Frank Le Grand
+# Commit ID: 4b27157a46ce2a51d886db45ac5ccfec1b00c1d0
+# Date: 2013-08-09 14:24:48 +0000
+--------------------
+# Committed by: Frank Le Grand
+# Commit ID: d3b8f3ae90d1f97baba9deeaa55924a6fd9c2a43
+# Date: 2013-03-08 22:59:40 +0000
+--------------------
+# Committed by: Frank Le Grand
+# Commit ID: bca3428387886ae5eca39e5d98a948372f3641c0
+# Date: 2013-02-06 20:32:45 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 36e77b95f7921e9539fdc0c115fe4039fa573150
+# Date: 2012-10-19 22:51:20 +0000
+--------------------
+# Committed by: Jonathan Gillaspie
+# Commit ID: 2dd7f9fdcbca1d185974988c6b72bd8632dde180
+# Date: 2012-10-03 20:02:29 +0000
+--------------------
+# Committed by: Jonathan Gillaspie
+# Commit ID: f8ce5cf7c3d0de9409e546b6f62cae74dee53a4e
+# Date: 2012-10-03 01:32:06 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: caae5ea873157dec8d6e12ec4e75bad9bad68141
+# Date: 2012-09-04 17:09:54 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 508b45d371c57f858d0f0df168ee449ed2003dc2
+# Date: 2012-09-04 16:48:08 +0000
+########## End of Keysight Technologies Notice ##########
 /** <title>NSCell</title>
 
    <abstract>The abstract cell class</abstract>

@@ -1,3 +1,40 @@
+########## Keysight Technologies Added Changes To Satisfy LGPL 2.x Section 2(a) Requirements ##########
+# Committed by: Marcian Lytwyn
+# Commit ID: 25897d63e86923f20c8aa3505d1a1f8d726462c8
+# Date: 2016-12-22 20:56:31 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: cc49e3937f6a89112298f0e609a1ac4c64c96dd9
+# Date: 2015-06-26 19:19:59 +0000
+--------------------
+# Committed by: Jonathan Gillaspie
+# Commit ID: a139d7094a81d2d03dacec3546b5517b648b9a9a
+# Date: 2014-01-23 16:13:37 +0000
+--------------------
+# Committed by: Frank Le Grand
+# Commit ID: c216a53d9170e1ff51ccee34707d77e03bba195d
+# Date: 2013-10-21 17:59:13 +0000
+--------------------
+# Committed by: Frank Le Grand
+# Commit ID: c6fdf580ff0c5a3524e0b2876384a88d3b2fb1fc
+# Date: 2013-10-10 18:12:15 +0000
+--------------------
+# Committed by: Frank Le Grand
+# Commit ID: 44c6dfb6501d8244d19de2324c8dd23da46d6ec8
+# Date: 2013-10-03 20:20:25 +0000
+--------------------
+# Committed by: Frank Le Grand
+# Commit ID: c1baac77bed430e4b2cd0ae94d19eb55fdc6b85f
+# Date: 2013-08-23 16:31:38 +0000
+--------------------
+# Committed by: Frank Le Grand
+# Commit ID: 94976243ddfdbeae7fa8abb79f0f24288e838638
+# Date: 2013-08-23 16:09:17 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 36e77b95f7921e9539fdc0c115fe4039fa573150
+# Date: 2012-10-19 22:51:20 +0000
+########## End of Keysight Technologies Notice ##########
 /** <title>NSCursor</title>
 
    <abstract>Holds an image to use as a cursor</abstract>

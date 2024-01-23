@@ -1,3 +1,40 @@
+########## Keysight Technologies Added Changes To Satisfy LGPL 2.x Section 2(a) Requirements ##########
+# Committed by: Marcian Lytwyn
+# Commit ID: ef92cdbc23cf7b0f71cfbb23b9809d77d4034313
+# Date: 2017-02-17 21:48:26 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 6671471116c00855bc67d6a0b032940a21575595
+# Date: 2017-02-12 18:43:13 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: f41b38b0003bd2b1a62243c329a8b35a4c6d331a
+# Date: 2017-02-12 18:40:35 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 969b4894527d457dada0447762c3136db0f7f1b9
+# Date: 2017-02-12 18:25:21 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 155a17ec60ab9c2a1d264e476e3ec7cee7a426fc
+# Date: 2016-11-25 17:02:46 +0000
+--------------------
+# Committed by: Frank Le Grand
+# Commit ID: 4b27157a46ce2a51d886db45ac5ccfec1b00c1d0
+# Date: 2013-08-09 14:24:48 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 1299ede1d7223448fcd00b75b6d8892140860d3c
+# Date: 2012-10-25 19:30:39 +0000
+--------------------
+# Committed by: Doug Simons
+# Commit ID: c1f5f72359a007fa0cb8a0cae8387a0a48ab5e06
+# Date: 2012-10-25 04:20:25 +0000
+--------------------
+# Committed by: Doug Simons
+# Commit ID: 293c07c2f08766339ff86f54b6f59ec3820b5352
+# Date: 2012-10-14 16:39:16 +0000
+########## End of Keysight Technologies Notice ##########
 /*
    GSDragView - Generic Drag and Drop code.
 

@@ -1,3 +1,64 @@
+########## Keysight Technologies Added Changes To Satisfy LGPL 2.x Section 2(a) Requirements ##########
+# Committed by: Marcian Lytwyn
+# Commit ID: 7de3028113d17c7e965e168d96c9e0aef799742a
+# Date: 2018-06-07 19:40:59 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 4f357c12d382277c6549d975ca203119c6102568
+# Date: 2017-09-25 21:48:31 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: ac2355bae09e3426708fd56ce8fc32e83a067d03
+# Date: 2017-04-14 18:57:11 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 7c21633785a2f606f7b28c6288ceb1541fe671a3
+# Date: 2017-04-13 14:22:52 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: fe636303ee34e997b0c821cf9c64a479948e5360
+# Date: 2016-12-01 17:49:43 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: f382b159eba941d155c49788e73cca9530514c23
+# Date: 2016-11-11 13:32:59 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 2ee2c4ca53c10eae1bfec2306e5c474dba1c926c
+# Date: 2016-11-11 01:18:25 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 2088ec1ab5f039eb678bc91abfd9fc397eb192f8
+# Date: 2016-03-09 15:09:26 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 302adee8bab4f444190277fb2a83cc2081089013
+# Date: 2015-06-26 16:56:30 +0000
+--------------------
+# Committed by: Paul Landers
+# Commit ID: cbb5eeabf63a07826c032da3c918e9e1a08102b6
+# Date: 2014-12-05 19:01:46 +0000
+--------------------
+# Committed by: Frank Le Grand
+# Commit ID: 4b27157a46ce2a51d886db45ac5ccfec1b00c1d0
+# Date: 2013-08-09 14:24:48 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 343da32c8c5863bf2e8fb9e8b97f07a1b6fc2b46
+# Date: 2013-07-20 16:34:26 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 1299ede1d7223448fcd00b75b6d8892140860d3c
+# Date: 2012-10-25 19:30:39 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 2887e68d43b695242a07c2c5b3ad822006a90513
+# Date: 2012-10-17 20:10:28 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: f59b23c3fe6ef23a48ead5a5aba0b501a88407d3
+# Date: 2012-10-11 21:03:00 +0000
+########## End of Keysight Technologies Notice ##########
 /**
    Implementation of the GSToolTips class
 

@@ -1,3 +1,40 @@
+########## Keysight Technologies Added Changes To Satisfy LGPL 2.x Section 2(a) Requirements ##########
+# Committed by: Bekki Freeman
+# Commit ID: 940058aad83429eaefc606a8572077a6c62c2eff
+# Date: 2018-06-25 21:15:03 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 8d292d7f7d2010375ad36eb5cb806fa5dfff8df2
+# Date: 2017-03-12 21:20:59 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: db0087a2fe99e5dce87ddeb4881ef8fadd1d625b
+# Date: 2017-03-04 19:25:06 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 11bb0224cc3cff759f29e163e8d1d3b4028af21d
+# Date: 2017-02-09 18:09:51 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: be63eedc092207a6b46f7a3e007321a27bdf4e72
+# Date: 2016-10-05 19:58:54 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: a06204c7069a9efe9c8abdbe6311a37b329eef04
+# Date: 2015-06-20 21:02:13 +0000
+--------------------
+# Committed by: Frank Le Grand
+# Commit ID: d1662e45b02caf77122c05b22d744bf5b9de5038
+# Date: 2013-09-12 17:25:10 +0000
+--------------------
+# Committed by: Frank Le Grand
+# Commit ID: 2929f8aed867b786c11228307a97dfc90d404d1c
+# Date: 2013-09-04 18:15:55 +0000
+--------------------
+# Committed by: Frank Le Grand
+# Commit ID: 4b27157a46ce2a51d886db45ac5ccfec1b00c1d0
+# Date: 2013-08-09 14:24:48 +0000
+########## End of Keysight Technologies Notice ##########
 /** <title>NSBrowser</title>
 
    <abstract>Control to display and select from hierarchal lists</abstract>

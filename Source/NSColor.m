@@ -1,3 +1,36 @@
+########## Keysight Technologies Added Changes To Satisfy LGPL 2.x Section 2(a) Requirements ##########
+# Committed by: Marcian Lytwyn
+# Commit ID: ecedf1d681ba53ecc78446a74634d5151359351f
+# Date: 2018-05-17 15:49:24 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 5c15a13607a2e6e65cc91517a20f370d4a383466
+# Date: 2017-02-13 15:30:54 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: c5b424b40723bf1523603b6a2a37ccf55bd9f129
+# Date: 2017-02-12 20:46:28 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 31f52310df1070560f65479c26efcfa2fac99342
+# Date: 2017-01-25 15:49:14 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: ab97ddee5fec246796ae8d9f23dc2fb1cc5642e5
+# Date: 2016-10-05 21:18:43 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 425dc1efe74a7048630f00b9485c19d6b60e26a5
+# Date: 2015-06-26 02:03:03 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 8cd026dbd1d82b712095ccabb0361d5a5f51c6c7
+# Date: 2015-05-05 20:36:57 +0000
+--------------------
+# Committed by: Frank Le Grand
+# Commit ID: 4b27157a46ce2a51d886db45ac5ccfec1b00c1d0
+# Date: 2013-08-09 14:24:48 +0000
+########## End of Keysight Technologies Notice ##########
 /** <title>NSColor</title>
 
    <abstract>The colorful color class</abstract>

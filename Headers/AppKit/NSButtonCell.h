@@ -1,3 +1,16 @@
+########## Keysight Technologies Added Changes To Satisfy LGPL 2.x Section 2(a) Requirements ##########
+# Committed by: Marcian Lytwyn
+# Commit ID: 7476656d1e7f8438e802d239250a861f855d989b
+# Date: 2017-04-08 01:02:38 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 31f52310df1070560f65479c26efcfa2fac99342
+# Date: 2017-01-25 15:49:14 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 6c2bef2f629b7d8af2fca5dd9ae2456366037c3a
+# Date: 2015-06-20 21:12:10 +0000
+########## End of Keysight Technologies Notice ##########
 /* 
    NSButtonCell.h
 

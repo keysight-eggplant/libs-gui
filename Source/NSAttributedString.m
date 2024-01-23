@@ -1,3 +1,24 @@
+########## Keysight Technologies Added Changes To Satisfy LGPL 2.x Section 2(a) Requirements ##########
+# Committed by: Marcian Lytwyn
+# Commit ID: b6991cdc0c1595c13774b3ba1a206d0957c2a8b3
+# Date: 2016-11-18 19:59:34 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 2db13a06473b7ab20d905161efcd7dcc1a13c164
+# Date: 2016-04-06 18:44:24 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 630073e694c76093f92f5ec86a36f10f20b618ef
+# Date: 2015-06-20 16:30:25 +0000
+--------------------
+# Committed by: Frank Le Grand
+# Commit ID: bbc245709a443a971be173db142ddd769b3ac2f6
+# Date: 2013-08-28 03:11:51 +0000
+--------------------
+# Committed by: Frank Le Grand
+# Commit ID: 4b27157a46ce2a51d886db45ac5ccfec1b00c1d0
+# Date: 2013-08-09 14:24:48 +0000
+########## End of Keysight Technologies Notice ##########
 /** <title>NSAttributedStringAdditions</title>
 
    <abstract>Categories which add capabilities to NSAttributedString</abstract>

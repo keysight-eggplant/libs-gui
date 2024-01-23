@@ -1,3 +1,36 @@
+########## Keysight Technologies Added Changes To Satisfy LGPL 2.x Section 2(a) Requirements ##########
+# Committed by: Marcian Lytwyn
+# Commit ID: ab97ddee5fec246796ae8d9f23dc2fb1cc5642e5
+# Date: 2016-10-05 21:18:43 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: a856194abac555804ed651f9e00d87872194931f
+# Date: 2016-02-02 23:26:13 +0000
+--------------------
+# Committed by: Doug Simons
+# Commit ID: e8f9310fd171dd0c5bd91593e4d825438bc687c7
+# Date: 2015-09-10 22:41:19 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 03f5d6b8797398893bf7e1c7f60082c42b487b63
+# Date: 2015-07-01 19:40:11 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 2a41972a782cea5b3abd2c7091ce363cf06f36f1
+# Date: 2015-07-01 19:32:05 +0000
+--------------------
+# Committed by: Paul Landers
+# Commit ID: cf20f7bd7940ac903be080ad7589c2189eecbe6d
+# Date: 2015-01-29 18:22:17 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 3f1b7cb970c7060c5b9bb062381900af74ced3cf
+# Date: 2014-12-04 16:02:07 +0000
+--------------------
+# Committed by: Frank Le Grand
+# Commit ID: 4b27157a46ce2a51d886db45ac5ccfec1b00c1d0
+# Date: 2013-08-09 14:24:48 +0000
+########## End of Keysight Technologies Notice ##########
 /*
    NSLayoutManager.m
 

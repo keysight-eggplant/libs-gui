@@ -1,3 +1,196 @@
+########## Keysight Technologies Added Changes To Satisfy LGPL 2.x Section 2(a) Requirements ##########
+# Committed by: Doug Simons
+# Commit ID: ba50e33cf4ea14d1fef712d26bbcac7cd81cafaa
+# Date: 2020-01-21 16:27:22 -0700
+--------------------
+# Committed by: Doug Simons
+# Commit ID: acc4405cfcc011b3b09ac2b1d8f0a17e7489b6da
+# Date: 2016-01-27 17:34:25 +0000
+--------------------
+# Committed by: Doug Simons
+# Commit ID: b7f61f3fea5afadf043ffc53ba1a165a74e9551b
+# Date: 2015-11-25 20:09:24 +0000
+--------------------
+# Committed by: Doug Simons
+# Commit ID: 04f41a193a28580fb82af976f29c4e13b6094401
+# Date: 2015-11-23 19:52:22 +0000
+--------------------
+# Committed by: Doug Simons
+# Commit ID: e8f9310fd171dd0c5bd91593e4d825438bc687c7
+# Date: 2015-09-10 22:41:19 +0000
+--------------------
+# Committed by: Doug Simons
+# Commit ID: f2bf25a5f8e23d66f601d27fce367239beae4275
+# Date: 2015-09-08 22:54:55 +0000
+--------------------
+# Committed by: Doug Simons
+# Commit ID: 3f64428c309341c55249cb4d16f79f72c80009c7
+# Date: 2015-08-25 22:58:05 +0000
+--------------------
+# Committed by: Doug Simons
+# Commit ID: 6d5c72929a9c3798479e25b29135ca2a8ddb52d4
+# Date: 2015-08-14 20:51:12 +0000
+--------------------
+# Committed by: Doug Simons
+# Commit ID: d905991ebe116c3f3462f1024c62549ca1626391
+# Date: 2015-07-16 22:26:17 +0000
+--------------------
+# Committed by: Doug Simons
+# Commit ID: 05b324b8fd9a8e67eb81ae19c0d00b35c1153764
+# Date: 2015-07-02 16:11:58 +0000
+--------------------
+# Committed by: Doug Simons
+# Commit ID: cc2e5f567f41ceac8d44b9d1140e1ce833cfbf29
+# Date: 2015-07-02 00:13:35 +0000
+--------------------
+# Committed by: Paul Landers
+# Commit ID: 3d60883d2a2d4941a8fb75c884864b1f9266a61c
+# Date: 2015-06-17 23:23:01 +0000
+--------------------
+# Committed by: Doug Simons
+# Commit ID: 510212e29fe9e24aad2e0b4fc4c68329099626ca
+# Date: 2015-06-10 22:57:19 +0000
+--------------------
+# Committed by: Doug Simons
+# Commit ID: 7296ccf899864c304ee0042200b31979262ffa12
+# Date: 2015-04-20 20:56:05 +0000
+--------------------
+# Committed by: Doug Simons
+# Commit ID: b89de028aac65968730ab3d93c1ff65b9a5c5985
+# Date: 2015-04-17 15:39:53 +0000
+--------------------
+# Committed by: Doug Simons
+# Commit ID: 7bcce58ffe5049085efe3f8d8a95b986d9cf5b09
+# Date: 2015-03-26 20:03:54 +0000
+--------------------
+# Committed by: Doug Simons
+# Commit ID: 5c75af1e49508ead32abdb6c5d8d1d3d4524a880
+# Date: 2015-01-08 20:32:49 +0000
+--------------------
+# Committed by: Doug Simons
+# Commit ID: 61695272c58fc799cbd223b4054ba0114c0e2fb5
+# Date: 2014-07-14 20:08:26 +0000
+--------------------
+# Committed by: Frank Le Grand
+# Commit ID: ff37e4b2e82297f36893238153b87b8beafd28f0
+# Date: 2014-03-28 17:47:45 +0000
+--------------------
+# Committed by: Frank Le Grand
+# Commit ID: f203fea7d716649bfd6bf55273fdc6ac5227d4fa
+# Date: 2014-02-19 03:40:26 +0000
+--------------------
+# Committed by: Frank Le Grand
+# Commit ID: c216a53d9170e1ff51ccee34707d77e03bba195d
+# Date: 2013-10-21 17:59:13 +0000
+--------------------
+# Committed by: Frank Le Grand
+# Commit ID: 44c6dfb6501d8244d19de2324c8dd23da46d6ec8
+# Date: 2013-10-03 20:20:25 +0000
+--------------------
+# Committed by: Frank Le Grand
+# Commit ID: 624a62d838df8b1ae902cebbf6dcb4f4f065a46a
+# Date: 2013-09-11 16:54:56 +0000
+--------------------
+# Committed by: Frank Le Grand
+# Commit ID: 2929f8aed867b786c11228307a97dfc90d404d1c
+# Date: 2013-09-04 18:15:55 +0000
+--------------------
+# Committed by: Frank Le Grand
+# Commit ID: bbc245709a443a971be173db142ddd769b3ac2f6
+# Date: 2013-08-28 03:11:51 +0000
+--------------------
+# Committed by: Doug Simons
+# Commit ID: 68a8e6c19f1d58c6a8a2a0069428ab5c46ed75c0
+# Date: 2013-08-26 21:19:31 +0000
+--------------------
+# Committed by: Frank Le Grand
+# Commit ID: 4b27157a46ce2a51d886db45ac5ccfec1b00c1d0
+# Date: 2013-08-09 14:24:48 +0000
+--------------------
+# Committed by: Frank Le Grand
+# Commit ID: 588eab8526861a2614d5fa51d38a27db617fdad0
+# Date: 2013-04-24 16:47:43 +0000
+--------------------
+# Committed by: Doug Simons
+# Commit ID: 6f9a0ad102eaaa7bf5f37f38f1d41fb8535bd2e7
+# Date: 2013-04-22 20:12:01 +0000
+--------------------
+# Committed by: Jonathan Gillaspie
+# Commit ID: 9015fa656e487a07c890d3eb7fc2033c9c2c08b9
+# Date: 2013-03-14 00:00:10 +0000
+--------------------
+# Committed by: Frank Le Grand
+# Commit ID: d3b8f3ae90d1f97baba9deeaa55924a6fd9c2a43
+# Date: 2013-03-08 22:59:40 +0000
+--------------------
+# Committed by: Frank Le Grand
+# Commit ID: d1bb44a910acbce4439269e2b98b2dac07bedee8
+# Date: 2013-03-01 00:04:56 +0000
+--------------------
+# Committed by: Doug Simons
+# Commit ID: 3dab64bcc1de94caa398e5e91a51c715c3666f6c
+# Date: 2013-02-22 23:24:40 +0000
+--------------------
+# Committed by: Frank Le Grand
+# Commit ID: c9f3f71f41d44759377cd69fc8f7a1da773dc27a
+# Date: 2013-02-21 22:23:36 +0000
+--------------------
+# Committed by: Jonathan Gillaspie
+# Commit ID: b40571e9c5377426a8d0bf0ff2d9bc375b4fd1de
+# Date: 2013-02-13 20:18:52 +0000
+--------------------
+# Committed by: Doug Simons
+# Commit ID: 9658c439bd2b2b75c6e84cbeb8fbe2cb7166143e
+# Date: 2013-01-31 17:02:40 +0000
+--------------------
+# Committed by: Jonathan Gillaspie
+# Commit ID: 0f5b764553386879770ce6cf54d29e385ea6a57c
+# Date: 2012-11-14 01:08:52 +0000
+--------------------
+# Committed by: Doug Simons
+# Commit ID: c1f5f72359a007fa0cb8a0cae8387a0a48ab5e06
+# Date: 2012-10-25 04:20:25 +0000
+--------------------
+# Committed by: Doug Simons
+# Commit ID: 293c07c2f08766339ff86f54b6f59ec3820b5352
+# Date: 2012-10-14 16:39:16 +0000
+--------------------
+# Committed by: Doug Simons
+# Commit ID: 0daa47b6fc6083d009d03b7199e5b1e6ad3a35ae
+# Date: 2012-10-08 21:47:53 +0000
+--------------------
+# Committed by: Jonathan Gillaspie
+# Commit ID: 3a023b859a69bb4b4fa29d1ef0e8196e94821947
+# Date: 2012-09-04 20:21:31 +0000
+--------------------
+# Committed by: Gregory John Casamento
+# Commit ID: 7e684669ede747ab31d97aca166c8aa335285a4b
+# Date: 2012-08-31 20:34:35 +0000
+--------------------
+# Committed by: Gregory John Casamento
+# Commit ID: 7b1a15cd96cb6cb282f2088ea39e5ba04a0088b6
+# Date: 2012-08-31 16:57:39 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 5621787930d8799d322a14d3cb3a8ecb698eccf1
+# Date: 2012-08-08 22:55:06 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: c02881865b6db7ff779d846d2e59f0c72cd29d3b
+# Date: 2012-06-28 19:44:50 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: d888d2ec77a3a207c4913beb36e2d35f82f1a1f4
+# Date: 2012-06-27 18:10:40 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 35441d506cbeb31744a412b15b9569c458b19fc9
+# Date: 2012-06-27 17:54:23 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: bc0fb2eec36a09806053d35e8637183c13a02bd6
+# Date: 2012-06-27 17:51:51 +0000
+########## End of Keysight Technologies Notice ##########
 2020-01-21  Doug Simons <doug.simons@eggplant.io>
 
 	* TextConverters/RTF/RTFConsumer.m: Fix to recognize RTF files

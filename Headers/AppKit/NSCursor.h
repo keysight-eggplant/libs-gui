@@ -1,3 +1,20 @@
+########## Keysight Technologies Added Changes To Satisfy LGPL 2.x Section 2(a) Requirements ##########
+# Committed by: Marcian Lytwyn
+# Commit ID: a1d62943a6153190d2403fd79327deaa45268775
+# Date: 2016-10-04 22:11:05 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: de5f907dcae55a0a0a8af1653c5e6c379ab2a4bc
+# Date: 2015-07-08 22:21:16 +0000
+--------------------
+# Committed by: Frank Le Grand
+# Commit ID: c1baac77bed430e4b2cd0ae94d19eb55fdc6b85f
+# Date: 2013-08-23 16:31:38 +0000
+--------------------
+# Committed by: Frank Le Grand
+# Commit ID: 94976243ddfdbeae7fa8abb79f0f24288e838638
+# Date: 2013-08-23 16:09:17 +0000
+########## End of Keysight Technologies Notice ##########
 /* 
    NSCursor.h
 

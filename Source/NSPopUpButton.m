@@ -1,3 +1,32 @@
+########## Keysight Technologies Added Changes To Satisfy LGPL 2.x Section 2(a) Requirements ##########
+# Committed by: Marcian Lytwyn
+# Commit ID: 76dc362993c720440af53c66699edf32176a5e70
+# Date: 2017-09-19 13:32:41 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 577fc324ba0e6ae749bdb79f7d7be161a76cdb25
+# Date: 2017-09-18 22:20:45 +0000
+--------------------
+# Committed by: Frank Le Grand
+# Commit ID: 4b27157a46ce2a51d886db45ac5ccfec1b00c1d0
+# Date: 2013-08-09 14:24:48 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 03e73ef171cc36b88a3930fabd17f1938d05fd49
+# Date: 2013-04-14 23:46:50 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: f62f56695dedb9d46d814c7bc0888f781d66a52a
+# Date: 2013-02-24 00:32:45 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 8d7afe873e6ac9b9039a265969235d9714c7afa2
+# Date: 2013-02-23 22:31:29 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 38f2534170d1cb32c458a688cfb8135dc9710d5e
+# Date: 2013-02-23 22:29:16 +0000
+########## End of Keysight Technologies Notice ##########
 /** <title>NSPopUpButton</title>
 
    <abstract>Popup list class</abstract>

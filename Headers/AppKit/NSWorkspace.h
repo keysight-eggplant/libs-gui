@@ -1,3 +1,8 @@
+########## Keysight Technologies Added Changes To Satisfy LGPL 2.x Section 2(a) Requirements ##########
+# Committed by: Marcian Lytwyn
+# Commit ID: e1a1070a18fd1895b4b6cdb2b0697c0a762ae5df
+# Date: 2016-10-05 18:14:43 +0000
+########## End of Keysight Technologies Notice ##########
 /* 
    NSWorkspace.h
 

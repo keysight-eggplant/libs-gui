@@ -1,3 +1,12 @@
+########## Keysight Technologies Added Changes To Satisfy LGPL 2.x Section 2(a) Requirements ##########
+# Committed by: Marcian Lytwyn
+# Commit ID: 121b601eb0a72e8594a50435295ff6a29e5643ae
+# Date: 2012-09-09 00:52:57 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 37d5e649678130695e34065ae941bc6898712caf
+# Date: 2012-08-27 16:43:09 +0000
+########## End of Keysight Technologies Notice ##########
 /** <title>NSOpenPanel</title> -*-objc-*-
 
    <abstract>Standard panel for opening files</abstract>

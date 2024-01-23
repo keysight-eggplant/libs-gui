@@ -1,3 +1,12 @@
+########## Keysight Technologies Added Changes To Satisfy LGPL 2.x Section 2(a) Requirements ##########
+# Committed by: Marcian Lytwyn
+# Commit ID: 0b03717fe9d68fe488ceed1e0a90144048e22ee4
+# Date: 2015-06-26 16:47:48 +0000
+--------------------
+# Committed by: Frank Le Grand
+# Commit ID: ff37e4b2e82297f36893238153b87b8beafd28f0
+# Date: 2014-03-28 17:47:45 +0000
+########## End of Keysight Technologies Notice ##########
 /* 
    GSToolbarCustomizationPalette.m
 

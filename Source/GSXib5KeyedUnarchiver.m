@@ -1,3 +1,272 @@
+########## Keysight Technologies Added Changes To Satisfy LGPL 2.x Section 2(a) Requirements ##########
+# Committed by: Gregory Casamento
+# Commit ID: a7487b4811fdb2e4d057aaf51cd14369ea8a8805
+# Date: 2023-09-28 10:05:31 -0400
+--------------------
+# Committed by: williameveretteggplant
+# Commit ID: 0647d2f606d80210b850b6520329d51a50ce8ff8
+# Date: 2022-01-28 08:58:47 -0700
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 98a5e3f0119feeedfa06ab9d3c99c977333723c3
+# Date: 2020-06-18 19:57:19 -0400
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 9693aeb4e76e9ee9500fe0b5bfa94f5a08e67ae4
+# Date: 2020-06-18 19:23:50 -0400
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 7b259ad12510adc65488f3074b4e6aaa1e42e0ca
+# Date: 2018-05-24 22:51:36 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 78a6ed0fcf63334cdfd69ba990648ad98f596636
+# Date: 2017-12-11 23:22:18 +0000
+--------------------
+# Committed by: Paul Landers
+# Commit ID: c6c1dd143299e28543779d4c8a5b09b9c87df51d
+# Date: 2017-12-11 22:06:24 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 1573a14d971cb528b27690d1acb4ccb79a75ebae
+# Date: 2017-10-06 17:17:24 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 71a74c13f291e53b5e7fe8ad55ca78b705bacc5b
+# Date: 2017-09-18 20:03:55 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 2a06e8c331dcf749f7d73c7870cc8f3d14165f46
+# Date: 2017-08-31 16:10:13 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 2ba90fe7947e502608cd87f7f44ad029f0e539e4
+# Date: 2017-08-25 18:21:14 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: ea7c060b43b47d9bdffe55202df27fcb1e514b4a
+# Date: 2017-08-16 18:44:51 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 36e3724a213dee052f469e546a91e36816b32ff4
+# Date: 2017-06-27 18:56:41 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 659de28791e6be9ad724cd6c62f6127882f9752b
+# Date: 2017-06-27 18:53:44 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 234c0d1dd77a578d89e4dd34f23b051cb29cf4a2
+# Date: 2017-06-23 20:03:43 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 3b2b4984de3c39413ddad0262a05590b5d9d0ee8
+# Date: 2017-06-23 01:19:42 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: be394be5da5b4ebda7ddded3cd205c2f8196ea8c
+# Date: 2017-06-13 16:50:37 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: b9ad3f1efade0e9c5ee978b132f23e9ec6dc1dd7
+# Date: 2017-06-12 23:25:01 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 62c3e4d7ec190c2ca9de387653c9e77d6978f239
+# Date: 2017-06-12 17:53:55 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 81c9ed1b4e79ad11cd9f9d18832dbff7ae0cf2f0
+# Date: 2017-06-07 15:19:45 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 7ccd9399824a813c8f2cc3c84309cd6222a47726
+# Date: 2017-06-06 20:28:38 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 29e86864d7eadd0aa86255bf11fdd79ee6c54672
+# Date: 2017-06-02 22:10:49 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 84dba1a566391a0ecf2b00d4e9cf3a740d5a3950
+# Date: 2017-04-14 18:51:34 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 528f069d36392a21e5e033498f5cf1f0b5f1e80e
+# Date: 2017-04-14 16:54:41 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 9c3c3d8b8dea47a5c7d8bf485b083602e79433b4
+# Date: 2017-04-14 00:26:51 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: a3e28ec077b86ec60236c13aa6e61deeaeafec93
+# Date: 2017-04-12 22:07:40 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 054c8eb5c1a4216e366249a64b921319bd343b3a
+# Date: 2017-04-10 18:50:26 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 860d08968601950d12839c0b589dc12a858bc51c
+# Date: 2017-04-10 16:50:27 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 4ad8c65b08e312913c70edca521efae6a04b3635
+# Date: 2017-04-08 03:43:49 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 7476656d1e7f8438e802d239250a861f855d989b
+# Date: 2017-04-08 01:02:38 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 98894760b9a48411cb96316437d925ea842b7069
+# Date: 2017-04-07 21:24:27 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: f115d646942a16fc74a253ef09591540d8d3c745
+# Date: 2017-03-27 20:54:28 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: fb5309e5f67e4f1292178571440e96eac093a465
+# Date: 2017-03-27 17:23:47 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 3a6d9f829d9d165a67f533a67e493be0b97b7dcc
+# Date: 2017-03-24 19:11:54 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 19d4e2c372e757983daad9da83acc7aa157773f4
+# Date: 2017-03-24 18:24:50 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: d5242088e84b15d33a691c86055a5d379e25574c
+# Date: 2017-03-24 15:55:57 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 8276bb0924816570201a3bfdc590f88fdbe97c60
+# Date: 2017-03-23 20:37:08 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 632e1bf15ad4e784f3eadc473ec3929054939543
+# Date: 2017-03-23 16:49:23 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: acd59c14bdc22b9b1c3082106421868469ef0c1c
+# Date: 2017-03-18 22:37:14 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 1865631e6984865e29231eb9acf7d3d1713f679d
+# Date: 2017-03-17 20:33:49 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: f88a208373bb23a932a2b63f006ebddaf1e9ea44
+# Date: 2017-03-17 19:29:10 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: aa161053342622ede95ad1bb07f720c9f872cfb5
+# Date: 2017-03-10 18:17:12 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 5853fa821a46b7edebd998883ed6a21bcdfa94e3
+# Date: 2017-03-10 18:14:37 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: f995fbb0f89c494e4291a67852c798c95fca8550
+# Date: 2017-03-04 20:59:29 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 4cc87e8b10b43941e010cabbb107729c28b1c9ae
+# Date: 2017-02-23 16:27:41 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: f2640b018f78a66de292b98fc4654cb4558d2a8a
+# Date: 2017-02-13 17:06:13 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 2fd2b171de7d04f196e54a3d359fb0b613b3fb25
+# Date: 2017-02-12 18:41:54 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: f41b38b0003bd2b1a62243c329a8b35a4c6d331a
+# Date: 2017-02-12 18:40:35 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 969b4894527d457dada0447762c3136db0f7f1b9
+# Date: 2017-02-12 18:25:21 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 4bf6fc31e80ecf1fe922cc5fe4a669aee672ea42
+# Date: 2017-02-09 17:53:10 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 4e5fc3f488cdc21e712def3e4567de431c247117
+# Date: 2017-02-07 23:28:32 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 3d801f513e8da5d3fd74a793a0c65c38d7396a1e
+# Date: 2017-02-06 22:10:52 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 3df42a72a68902618a14c604f8228964193db386
+# Date: 2017-02-06 18:43:14 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: cb854e133f060237ebff4e874c79e7045980e35e
+# Date: 2017-02-06 15:20:46 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 4b977f7715d1542529d06ba4dd035c71def1e696
+# Date: 2017-02-05 16:56:10 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 67fb2de57eaec0366600ffb2e920f7d99f679f59
+# Date: 2017-02-01 01:56:35 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 00fa6f58630e243832083b077da9b0615d565bac
+# Date: 2017-01-30 21:19:28 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: ee842f0a0ef366cb0b6c93b04acbed7ef85d3a42
+# Date: 2017-01-30 16:45:36 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: a91ac8d00ce0028370d70d3be231154d18d0a885
+# Date: 2017-01-29 23:55:47 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 92c2b43b8213e5c3916b6600ce938d0d3f5b183a
+# Date: 2017-01-29 23:41:33 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 9d2a7990aa540f2b6b508157d1fa1480802812df
+# Date: 2017-01-27 23:58:39 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: b84a89a58f99ee694b6bc0bbc3aac5570929192a
+# Date: 2017-01-26 16:31:51 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: f0d038ef6c545e11a87892041fbef71f82639bf8
+# Date: 2017-01-26 15:49:11 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: c5d54b5aa8a54c6f2bd58ef57b9569a7baafa889
+# Date: 2017-01-26 15:39:06 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 3cad9a330eacdd50030aabdecb87e4bf8a420533
+# Date: 2017-01-26 15:12:43 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 4fc6c4db69f3f52d50b4ec7e435ede9bd36d1597
+# Date: 2017-01-25 23:04:47 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 31f52310df1070560f65479c26efcfa2fac99342
+# Date: 2017-01-25 15:49:14 +0000
+########## End of Keysight Technologies Notice ##########
 /** <title>GSXib5KeyedUnarchiver.m</title>
  
  <abstract>The XIB 5 keyed unarchiver</abstract>

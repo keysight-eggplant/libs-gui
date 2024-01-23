@@ -1,3 +1,56 @@
+########## Keysight Technologies Added Changes To Satisfy LGPL 2.x Section 2(a) Requirements ##########
+# Committed by: Marcian Lytwyn
+# Commit ID: be394be5da5b4ebda7ddded3cd205c2f8196ea8c
+# Date: 2017-06-13 16:50:37 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: b9ad3f1efade0e9c5ee978b132f23e9ec6dc1dd7
+# Date: 2017-06-12 23:25:01 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: fbf1590ea2d3ef2ab1e7ced84637eb175a1cdc17
+# Date: 2015-12-04 14:52:36 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 98048287ab6cdc89c589b9addd085e02827d30d2
+# Date: 2015-08-08 14:46:58 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 54d9663829bd6c4925db775d367ffa5f2b6f4835
+# Date: 2015-07-22 23:37:29 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: bde51c9e0d9fadb23bf3f6a9bb3dec81b5006e03
+# Date: 2015-07-22 23:22:45 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 1a3351607c14fc9b4c75155b68590480b49ce126
+# Date: 2015-07-21 21:18:59 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 4480d228ecdb6e6e00e3092be0049ccaf7d5b156
+# Date: 2015-07-21 21:10:07 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 366a02d09075c7d7cb99b6c6cdb28abca7b96006
+# Date: 2015-06-20 22:37:23 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: c6a5c9a81e2db87622cb6aabb593270345282c3e
+# Date: 2015-06-11 17:48:41 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: d58bab49fd214f5273467a648fceea8a2ece1b3f
+# Date: 2015-05-07 23:48:36 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: c008417ba08b5dbadd8307088d056289e07ea1a0
+# Date: 2014-08-01 20:46:33 +0000
+--------------------
+# Committed by: Frank Le Grand
+# Commit ID: 4b27157a46ce2a51d886db45ac5ccfec1b00c1d0
+# Date: 2013-08-09 14:24:48 +0000
+########## End of Keysight Technologies Notice ##########
 #
 #  Images makefile for GNUstep GUI Library
 #  Copyright (C) 2009-2010 Free Software Foundation, Inc.

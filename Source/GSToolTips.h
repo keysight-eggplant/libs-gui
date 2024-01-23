@@ -1,3 +1,12 @@
+########## Keysight Technologies Added Changes To Satisfy LGPL 2.x Section 2(a) Requirements ##########
+# Committed by: Marcian Lytwyn
+# Commit ID: 7c21633785a2f606f7b28c6288ceb1541fe671a3
+# Date: 2017-04-13 14:22:52 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 1299ede1d7223448fcd00b75b6d8892140860d3c
+# Date: 2012-10-25 19:30:39 +0000
+########## End of Keysight Technologies Notice ##########
 /**
    Interface of the GSToolTips class
 

@@ -1,3 +1,20 @@
+########## Keysight Technologies Added Changes To Satisfy LGPL 2.x Section 2(a) Requirements ##########
+# Committed by: Marcian Lytwyn
+# Commit ID: bb5773f64ecb853373e564ca62ff84914b5a0b03
+# Date: 2016-10-05 18:26:49 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 9a550a23e5ed07fd355e27b24ca2bfe4afd4aec2
+# Date: 2015-06-26 13:54:36 +0000
+--------------------
+# Committed by: Frank Le Grand
+# Commit ID: 4b27157a46ce2a51d886db45ac5ccfec1b00c1d0
+# Date: 2013-08-09 14:24:48 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 38f2534170d1cb32c458a688cfb8135dc9710d5e
+# Date: 2013-02-23 22:29:16 +0000
+########## End of Keysight Technologies Notice ##########
 /*
    externs.m
 

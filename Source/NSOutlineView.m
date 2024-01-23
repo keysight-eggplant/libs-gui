@@ -1,3 +1,88 @@
+########## Keysight Technologies Added Changes To Satisfy LGPL 2.x Section 2(a) Requirements ##########
+# Committed by: Marcian Lytwyn
+# Commit ID: f6a47b3f0cfcefcf2622386944635a2d61da325c
+# Date: 2018-08-14 23:05:58 +0000
+--------------------
+# Committed by: Paul Landers
+# Commit ID: f313e6336e7f6ef413d0f9fd703371d888d557f9
+# Date: 2017-08-28 19:16:42 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: f5b9384342ea899ef6a008ed1cb09dde601c2fca
+# Date: 2017-08-16 22:35:43 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 7c21633785a2f606f7b28c6288ceb1541fe671a3
+# Date: 2017-04-13 14:22:52 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 6ab64937bbcbc56e0ff6d8a157ac99fbbce263be
+# Date: 2017-04-11 22:24:10 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: d539e046e609f218b5d4963918b8fd7bfe8a383b
+# Date: 2017-04-11 22:15:09 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: b3ac8d4ac64169f003d8aa4d98379f2e8e1d69b9
+# Date: 2017-03-12 00:19:00 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 52d27d8f82d85dd1eb1e2d32dc45e4a2eccc3b61
+# Date: 2017-03-12 00:15:14 +0000
+--------------------
+# Committed by: Paul Landers
+# Commit ID: 741024d6ed2ef5e28b3b9fb6c1fa5620f0a4a20a
+# Date: 2017-01-10 18:41:15 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 6566f7b41da0d953519b26efc6bf990496eb4a96
+# Date: 2016-12-06 02:41:50 +0000
+--------------------
+# Committed by: Paul Landers
+# Commit ID: 1ada7d514d45523de81e8f315e94151bc5e88824
+# Date: 2016-11-15 18:50:44 +0000
+--------------------
+# Committed by: Paul Landers
+# Commit ID: 3b3388e8ade1b18f7185fa6329f722fa21bc21cc
+# Date: 2016-09-21 20:54:58 +0000
+--------------------
+# Committed by: Doug Simons
+# Commit ID: f2bf25a5f8e23d66f601d27fce367239beae4275
+# Date: 2015-09-08 22:54:55 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 527b0def044b674294876220fc119f0f3cb11336
+# Date: 2015-07-02 00:22:43 +0000
+--------------------
+# Committed by: Jonathan Gillaspie
+# Commit ID: 364e2295e21f49eb97a310fd1a865c38ea99ba9c
+# Date: 2013-12-11 15:51:30 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: daf7281a96f930abffc9bf96ce1717d326e56052
+# Date: 2013-12-10 19:54:07 +0000
+--------------------
+# Committed by: Frank Le Grand
+# Commit ID: 4b27157a46ce2a51d886db45ac5ccfec1b00c1d0
+# Date: 2013-08-09 14:24:48 +0000
+--------------------
+# Committed by: Frank Le Grand
+# Commit ID: bca3428387886ae5eca39e5d98a948372f3641c0
+# Date: 2013-02-06 20:32:45 +0000
+--------------------
+# Committed by: Frank Le Grand
+# Commit ID: 21e571b9236370a0c98915d81580d7d0920ee266
+# Date: 2013-01-31 17:57:24 +0000
+--------------------
+# Committed by: Frank Le Grand
+# Commit ID: fe5d19ee8e5d4ed493f8bece6f65e3689e669f56
+# Date: 2013-01-31 01:52:05 +0000
+--------------------
+# Committed by: Frank Le Grand
+# Commit ID: 10ad99f43fb3f3e2f1d440a425187eb0a6069e92
+# Date: 2013-01-30 20:43:30 +0000
+########## End of Keysight Technologies Notice ##########
 /** <title>NSOutlineView</title>
 
    <abstract>
