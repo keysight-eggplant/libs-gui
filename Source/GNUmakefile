@@ -263,7 +263,8 @@ GSXibKeyedUnarchiver.m \
 GSXib5KeyedUnarchiver.m \
 GSXibObjectContainer.m \
 GSXibParser.m \
-GSHelpAttachment.m 
+GSHelpAttachment.m \
+GSColorSliderCell.m
 
 # Turn off NSMenuItem warning that NSMenuItem conforms to <NSObject>,
 # but does not implement <NSObject>'s methods itself (it inherits

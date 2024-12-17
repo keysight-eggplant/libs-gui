@@ -502,12 +502,12 @@ static inline NSRect textCellFrameFromRect(NSRect cellRect)
 //
 - (void) encodeWithCoder: (NSCoder*)aCoder
 {
-  NSInteger max = [self maximumRecents];
-
   [super encodeWithCoder: aCoder];
 
   if ([aCoder allowsKeyedCoding])
     {
+      int max = [self maximumRecents];
+
       [aCoder encodeObject: _search_button_cell forKey: @"NSSearchButtonCell"];
       [aCoder encodeObject: _cancel_button_cell forKey: @"NSCancelButtonCell"];
       [aCoder encodeObject: _recents_autosave_name forKey: @"NSRecentsAutosaveName"];
@@ -516,12 +516,14 @@ static inline NSRect textCellFrameFromRect(NSRect cellRect)
     }
   else
     {
+      uint32_t max = [self maximumRecents];
+
       [aCoder encodeObject: _search_button_cell];
       [aCoder encodeObject: _cancel_button_cell];
       [aCoder encodeObject: _recents_autosave_name];
       [aCoder encodeValueOfObjCType: @encode(BOOL)
               at: &_sends_whole_search_string];
-      [aCoder encodeValueOfObjCType: @encode(unsigned int)
+      [aCoder encodeValueOfObjCType: @encode(uint32_t)
               at: &max];
     }
 }
@@ -548,13 +550,13 @@ static inline NSRect textCellFrameFromRect(NSRect cellRect)
         }
       else
         {
-                NSInteger max;
+          uint32_t max;
 
           [self setSearchButtonCell: [aDecoder decodeObject]];
           [self setCancelButtonCell: [aDecoder decodeObject]];
           [self setRecentsAutosaveName: [aDecoder decodeObject]];
           [aDecoder decodeValueOfObjCType: @encode(BOOL) at: &_sends_whole_search_string];
-          [aDecoder decodeValueOfObjCType: @encode(unsigned int) at: &max];
+          [aDecoder decodeValueOfObjCType: @encode(uint32_t) at: &max];
                 [self setMaximumRecents: max];
         }
       

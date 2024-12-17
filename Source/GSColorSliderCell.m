@@ -3,7 +3,7 @@
 // Commit ID: 279df922187d7242a93dde9b53d646449a7c4b8e 
 // Date: 2015-06-25 22:00:17 +0000 
 // ========== End of Keysight Technologies Notice ========== 
-/* GSStandardColorPicker.m
+/* GSColorSliderCell.m
 
    Copyright (C) 2007 Free Software Foundation, Inc.
 

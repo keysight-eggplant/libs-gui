@@ -1249,19 +1249,20 @@ static NSImage *_pbc_image[5];
     }
   else
     {    
-      int flag;
+      int32_t flag;
+
       [aCoder encodeObject: _menu];
       [aCoder encodeConditionalObject: [self selectedItem]];
       flag = _pbcFlags.pullsDown;
-      [aCoder encodeValueOfObjCType: @encode(int) at: &flag];
+      [aCoder encodeValueOfObjCType: @encode(int32_t) at: &flag];
       flag = _pbcFlags.preferredEdge;
-      [aCoder encodeValueOfObjCType: @encode(int) at: &flag];
+      [aCoder encodeValueOfObjCType: @encode(int32_t) at: &flag];
       flag = _pbcFlags.usesItemFromMenu;
-      [aCoder encodeValueOfObjCType: @encode(int) at: &flag];
+      [aCoder encodeValueOfObjCType: @encode(int32_t) at: &flag];
       flag = _pbcFlags.altersStateOfSelectedItem;
-      [aCoder encodeValueOfObjCType: @encode(int) at: &flag];
+      [aCoder encodeValueOfObjCType: @encode(int32_t) at: &flag];
       flag = _pbcFlags.arrowPosition;
-      [aCoder encodeValueOfObjCType: @encode(int) at: &flag];
+      [aCoder encodeValueOfObjCType: @encode(int32_t) at: &flag];
     }
 }
 
@@ -1353,7 +1354,7 @@ static NSImage *_pbc_image[5];
     }
   else
     {
-      int flag;
+      int32_t flag;
       id<NSMenuItem> selectedItem;
       int version = [aDecoder versionForClassName: 
                                   @"NSPopUpButtonCell"];
@@ -1368,15 +1369,15 @@ static NSImage *_pbc_image[5];
       [self setMenu: nil];
       [self setMenu: menu];
       selectedItem = [aDecoder decodeObject];
-      [aDecoder decodeValueOfObjCType: @encode(int) at: &flag];
+      [aDecoder decodeValueOfObjCType: @encode(int32_t) at: &flag];
       _pbcFlags.pullsDown = flag;
-      [aDecoder decodeValueOfObjCType: @encode(int) at: &flag];
+      [aDecoder decodeValueOfObjCType: @encode(int32_t) at: &flag];
       _pbcFlags.preferredEdge = flag;
-      [aDecoder decodeValueOfObjCType: @encode(int) at: &flag];
+      [aDecoder decodeValueOfObjCType: @encode(int32_t) at: &flag];
       _pbcFlags.usesItemFromMenu = flag;
-      [aDecoder decodeValueOfObjCType: @encode(int) at: &flag];
+      [aDecoder decodeValueOfObjCType: @encode(int32_t) at: &flag];
       _pbcFlags.altersStateOfSelectedItem = flag;
-      [aDecoder decodeValueOfObjCType: @encode(int) at: &flag];
+      [aDecoder decodeValueOfObjCType: @encode(int32_t) at: &flag];
       _pbcFlags.arrowPosition = flag;
       
       if (version < 2)

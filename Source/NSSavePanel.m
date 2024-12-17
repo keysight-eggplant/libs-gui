@@ -66,9 +66,7 @@
 #import "GSGuiPrivate.h"
 #import "GNUstepGUI/GSTheme.h"
 
-#if defined(_WIN32)
-#import "objc/blocks_runtime.h"
-#endif
+#import <GNUstepBase/GSBlocks.h>
 
 #define _SAVE_PANEL_X_PAD	5
 #define _SAVE_PANEL_Y_PAD	4
@@ -1665,16 +1663,15 @@ createRowsForColumn: (NSInteger)column
           column: (NSInteger)column;
 @end 
 
-static int compareFilenames (id elem1, id elem2, void *context)
+static NSComparisonResult compareFilenames (id elem1, id elem2, void *context)
 {
   /* TODO - use IMP optimization here.  */
-  NSSavePanel *s = context;
   NSSavePanel *self = (NSSavePanel *)context;
 
-  return (int)[s->_delegate panel: self
-		compareFilename: elem1
-		with: elem2
-		caseSensitive: YES];
+  return [self->_delegate panel: self
+             compareFilename: elem1
+                        with: elem2
+               caseSensitive: YES];
 }
 
 
