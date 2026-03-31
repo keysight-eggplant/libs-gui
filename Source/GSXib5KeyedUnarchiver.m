@@ -247,7 +247,7 @@ static NSString *ApplicationClass = nil;
         {
           NSWarnMLog(@"setting trigger %@ to selector %@", selName, label);
           //[destination setTarget: source]; // Not needed???
-          [destination performSelector: trigsel withObject: sel];
+          [destination performSelector: trigsel withObject: (id)sel];
         }
       else if ((SEL)nil == sel)
         {

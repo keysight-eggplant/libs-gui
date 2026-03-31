@@ -345,12 +345,12 @@ NSGraphicsContext	*GSCurrentContext(void)
        * be protected from other threads.
        */
       [contextLock lock];
-      methods = [[classMethodTable objectForKey: [self class]] pointerValue];
+      methods = [[classMethodTable objectForKey: (id)[self class]] pointerValue];
       if (methods == 0)
         {
           methods = [[self class] _initializeMethodTable];
           [classMethodTable setObject: [NSValue valueWithPointer: methods]
-                            forKey: [self class]];
+                            forKey: (id)[self class]];
         }
       [contextLock unlock];
     }
